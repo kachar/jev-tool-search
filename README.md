@@ -6,7 +6,7 @@ plus an experimental Jev search engine: an "Orama for Jev".
 
 It backs two articles:
 
-- [Picking the right tool for an LLM is a decision. Jev makes it.](https://kachar.dev/blog/picking-the-right-tool-for-an-llm-is-a-decision)
+- [Picking the right tool for an LLM is a decision. Jev makes it.](https://kachar.dev/blog/jev-picks-the-right-tool-for-an-llm)
   Jev vs BM25, embeddings and rerankers on 525 real MCP tools, plus Claude end to end.
 - [BM25 got Orama. Jev still needs one.](https://kachar.dev/blog/an-orama-for-jev)
   What a Jev search library has to decide for you, and why its defaults don't transfer between catalogs.
