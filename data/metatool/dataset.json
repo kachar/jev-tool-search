@@ -1,0 +1,4889 @@
+{
+  "name": "MetaTool (ToolE)",
+  "source": "https://github.com/HowieHwong/MetaTool/tree/35e81bb7576826e980c80fed8f8c0a2b4a1e6fbb/dataset",
+  "license": "MIT",
+  "tools": [
+    {
+      "name": "timeport",
+      "description": "Begin an exciting journey through time, interact with unique characters, and learn history in this time-travel game!"
+    },
+    {
+      "name": "airqualityforeast",
+      "description": "Planning something outdoors? Get the 2-day air quality forecast for any US zip code."
+    },
+    {
+      "name": "copilot",
+      "description": "Searches every dealer, analyzes & ranks every car for you so you can buy with confidence."
+    },
+    {
+      "name": "tira",
+      "description": "Shop Tira for top beauty brands! Explore cosmetics, health products & more online. Your beauty store awaits."
+    },
+    {
+      "name": "calculator",
+      "description": "A calculator app that executes a given formula and returns a result. This app can execute basic and advanced operations."
+    },
+    {
+      "name": "copywriter",
+      "description": "Send a URL and get sales copywriting suggestions for any page!"
+    },
+    {
+      "name": "total_query_meta_search_engine",
+      "description": "Go beyond google search: harness the combined power of 70+ search engines for ultimate web discovery."
+    },
+    {
+      "name": "Now",
+      "description": "Get Google Trends. In Japan, you can also get Twitter trends and search Twitter keywords."
+    },
+    {
+      "name": "search",
+      "description": "Level up your design skills quickly with a wide range of design courses, interactive workshops and AI-guided mentorship."
+    },
+    {
+      "name": "SummarizeAnything_pr",
+      "description": "Summarize YouTube videos, web pages, and PDF documents by providing a link. This is a free preview."
+    },
+    {
+      "name": "ChatOCR",
+      "description": "The best way to read text from from any document. Extract text from scanned PDFs, photos, and even handwriting."
+    },
+    {
+      "name": "stellarexplorer",
+      "description": "Tool for exploring space through images including Mars Rover Photos, NASA image database, and space pictures of the day."
+    },
+    {
+      "name": "Broadway",
+      "description": "Search for shows that are currently playing on Broadway in New York City."
+    },
+    {
+      "name": "MyWritingCompanion",
+      "description": "Find, hire, and manage remote human writers, the best way to ensure your content is engaging, accurate, and error-free."
+    },
+    {
+      "name": "diceroller",
+      "description": "App for rolling dice using the d20 or Fate/Fudge systems."
+    },
+    {
+      "name": "ad4mat",
+      "description": "API to monetize outgoing traffic via tracking links."
+    },
+    {
+      "name": "hackit_web_scanner",
+      "description": "AI Powered Web Scanner by HACKIT."
+    },
+    {
+      "name": "MixerBox_Translate_AI_language_tutor",
+      "description": "Translate any language right away! Learn foreign languages easily by conversing with AI tutors!"
+    },
+    {
+      "name": "shimmer_daily",
+      "description": "Ideas, recommendations, and deals for Father's Day gifts."
+    },
+    {
+      "name": "CribbageScorer",
+      "description": "Tool for scoring your cards in the game of cribbage."
+    },
+    {
+      "name": "talkfpl",
+      "description": "Talk with AI to help you manage your FPL team. Compare players, transfer options and more."
+    },
+    {
+      "name": "WebRewind",
+      "description": "Get the picture of a website at a specific date."
+    },
+    {
+      "name": "magi_codex",
+      "description": "Ask about Magic: The Gathering cards, rules and interactions."
+    },
+    {
+      "name": "video_highlight",
+      "description": "Explore, research, and interact with YouTube videos and personal videos."
+    },
+    {
+      "name": "mbti",
+      "description": "For administering an MBTI test. You can get a list of questions and calculate your MBTI type."
+    },
+    {
+      "name": "exportchat",
+      "description": "A Tool to export your conversation or specific parts of your conversation."
+    },
+    {
+      "name": "mini_habits",
+      "description": "Form new habits through small, daily actions."
+    },
+    {
+      "name": "socialsearch",
+      "description": "The Social Search provides access to tweets, users, followers, images, media and more."
+    },
+    {
+      "name": "Talkface_IELTS_Prep",
+      "description": "Use the latest IELTS Speaking exam questions to prep your IELTS speaking with Talkface."
+    },
+    {
+      "name": "Checkers",
+      "description": "This allows you to play a game of checkers."
+    },
+    {
+      "name": "heygen",
+      "description": "Meet HeyGen - The best AI video generation platform for your team."
+    },
+    {
+      "name": "Figlet",
+      "description": "Utility for converting strings of text into ASCII fonts."
+    },
+    {
+      "name": "TalentOrg",
+      "description": "Find and hire freelance engineering talents from around the world."
+    },
+    {
+      "name": "ph_ai_news_query",
+      "description": "AI Equity Research Assistant (AI-ERA)."
+    },
+    {
+      "name": "social_media_muse",
+      "description": "Get soundtrack and hashtag recommendations from a picture!"
+    },
+    {
+      "name": "ApexMap",
+      "description": "Checking the current APEX Legends Ranked Map."
+    },
+    {
+      "name": "GifApi",
+      "description": "Search through a wide range of gifs - Powered by Giphy."
+    },
+    {
+      "name": "ai_council",
+      "description": "The AI council assesses queries through various agents, offering insights from many perspectives."
+    },
+    {
+      "name": "QuiverQuantitative",
+      "description": "Access data on congressional stock trading, lobbying, insider trading, and proposed legislation."
+    },
+    {
+      "name": "create_qr_code",
+      "description": "Create a QR code for any text or url."
+    },
+    {
+      "name": "lsongai",
+      "description": "Lsong's AI provides AI-powered content like news, images, music, movies, weather, stories, memes, and more."
+    },
+    {
+      "name": "aiAgents",
+      "description": "Unleashing the power of multiple AIs: One goal, limitless productivity."
+    },
+    {
+      "name": "Google_Ads_Shopping_Microsoft_Ads_pay_per_click",
+      "description": "Your personal assistance for automating advertising – Google Ads (AdWords) and Microsoft Ads (Bing)."
+    },
+    {
+      "name": "wpinteract",
+      "description": "Fetch or search posts from self-hosted WordPress websites, opening new possibilities for smart interaction with content."
+    },
+    {
+      "name": "rephrase",
+      "description": "Type 'perfect' to craft the perfect prompt, every time."
+    },
+    {
+      "name": "Man_of_Many",
+      "description": "Discover the latest in products, culture and style from Man of Many. Ask for the latest news and headlines."
+    },
+    {
+      "name": "WordCloud",
+      "description": "Create word cloud images from text."
+    },
+    {
+      "name": "brandfetch",
+      "description": "Retrieve company and brand data including logos, colors, fonts, and other brand information."
+    },
+    {
+      "name": "SuperchargeMyEV",
+      "description": "Find superchargers for non-Tesla vehicles for a specific location."
+    },
+    {
+      "name": "timemachine",
+      "description": "Enhances AI with real-time awareness, providing current time in various formats and timezones."
+    },
+    {
+      "name": "clinq",
+      "description": "Manage your CLINQ Account. Retrieve infos about calls, create call reminders and more."
+    },
+    {
+      "name": "smarttsicketsai",
+      "description": "Get Tickets For All Sports Events, Music Concerts, Theater And More With SmartTicketsAI.com."
+    },
+    {
+      "name": "storybird_stories",
+      "description": "Create beautiful, illustrated stories easily."
+    },
+    {
+      "name": "word_counter",
+      "description": "Count the number of words, and characters (with and without spaces)."
+    },
+    {
+      "name": "web_scraper",
+      "description": "Scrape content from webpages by providing a URL."
+    },
+    {
+      "name": "MixerBox_WebSearchG_web_search",
+      "description": "Search and summarize the web with our customized search engine powered by Google Search API!"
+    },
+    {
+      "name": "placid",
+      "description": "A design assistant that creates marketing visuals from your templates."
+    },
+    {
+      "name": "universal",
+      "description": "Enables to access web pages, analyze PDFs, generate QR codes, etc."
+    },
+    {
+      "name": "Substack_IQ",
+      "description": "Search, analyze, & summarize Substack newsletters, retrieve articles, and discover new Substacks!"
+    },
+    {
+      "name": "clinical_trial_radar",
+      "description": "Discover current info on global clinical trials, organizations, diseases, and biomarkers from public & private studies."
+    },
+    {
+      "name": "champdex",
+      "description": "Chat with your favorite League of Legends champions!"
+    },
+    {
+      "name": "qreator",
+      "description": "Generate QR code in seconds."
+    },
+    {
+      "name": "what_to_watch",
+      "description": "Search for current shows, get recommendations, and find out where things are streaming."
+    },
+    {
+      "name": "hadith",
+      "description": "Ask a question and get advice from hadith."
+    },
+    {
+      "name": "hdbcarpark",
+      "description": "For checking availability of car park lots at various HDB car parks around Singapore."
+    },
+    {
+      "name": "CarYardBard",
+      "description": "AI-Powered Car Sales Ad Generator for Australian Car Dealers."
+    },
+    {
+      "name": "chat_with_workspace",
+      "description": "Chat with your Notion workspace."
+    },
+    {
+      "name": "reflect_notes",
+      "description": "Creates a Reflect note."
+    },
+    {
+      "name": "sakenowa",
+      "description": "Find Sake and get detailed information in various ways."
+    },
+    {
+      "name": "ArtCollection",
+      "description": "Search through millions of art pieces from The Metropolitan Museum of Art."
+    },
+    {
+      "name": "dover_outreach",
+      "description": "Generate a personalized email to someone you're interested in reaching out to for a job opportunity."
+    },
+    {
+      "name": "PDF_Exporter",
+      "description": "Export any chat response into a stylized PDF document."
+    },
+    {
+      "name": "Puzzle_Constructor",
+      "description": "A tool for creating crosswords. You can create crosswords from words and hints."
+    },
+    {
+      "name": "AusSurfReport",
+      "description": "Get today's surf report for any break throughout Australia!"
+    },
+    {
+      "name": "Planfit",
+      "description": "Get your tailored workout plan and instructions with videos - AI-powered Workout Coach, Planfit."
+    },
+    {
+      "name": "AusPetrolPrices",
+      "description": "Ask for the average daily petrol price for any state or capital city region in Australia!"
+    },
+    {
+      "name": "SASpeedCameras",
+      "description": "See if a mobile speed camera or roadwork is on a South Australian road today!"
+    },
+    {
+      "name": "ImageSearch",
+      "description": "Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash."
+    },
+    {
+      "name": "ndricks_sports_api",
+      "description": "Get information about pro teams (NHL, NBA, NFL, MLB) teams by calling the ndricks Software Sports API."
+    },
+    {
+      "name": "webhooks",
+      "description": "Allows you to write, deploy, and manage HTTP Webhooks in JavaScript, right from the chat."
+    },
+    {
+      "name": "LarkBaseImporter",
+      "description": "Importing data into Lark Base for further analysis and presentation. An easy-to-use data management solution."
+    },
+    {
+      "name": "website_performance_insights",
+      "description": "Measure key metrics about your website - performance, accessibility, best practices, SEO, PWA."
+    },
+    {
+      "name": "AbleStyle",
+      "description": "Able Style is a fashion assistant who will help you answer the question, 'What shall I wear today?'"
+    },
+    {
+      "name": "tailor_erp",
+      "description": "A tool to help creating tailor-made ERP application."
+    },
+    {
+      "name": "fundsdbsearch",
+      "description": "Discover funding opportunities in UK and India on FundsDB. Type in your query in any language or /help for assistance."
+    },
+    {
+      "name": "hacktrack",
+      "description": "This tool checks if credentials linked to an email have been exposed in data breaches or hacks."
+    },
+    {
+      "name": "locator",
+      "description": "Add-on for displaying the current coordinates of the ISS and the names of the current astronauts in space."
+    },
+    {
+      "name": "dart",
+      "description": "Project management on autopilot."
+    },
+    {
+      "name": "Agones",
+      "description": "Agones provides soccer (football) results for matches played all over the world in the past 15 years."
+    },
+    {
+      "name": "CTCP",
+      "description": "Analyze eligibility criteria in ClinicalTrials.gov. Example input: nctid NCT05859269"
+    },
+    {
+      "name": "web_requests",
+      "description": "Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. Google, Wiki, GitHub."
+    },
+    {
+      "name": "chatspot",
+      "description": "Get access to marketing/sales data including domain information, company research and search keyword research."
+    },
+    {
+      "name": "assetOvi",
+      "description": "Search and preview millions of 3D assets for games, AIGC, AR/VR and others."
+    },
+    {
+      "name": "korea_subway",
+      "description": "Korea  metro subway route info."
+    },
+    {
+      "name": "RoboAd",
+      "description": "Your AI powered Ad Assistant!"
+    },
+    {
+      "name": "keywordexplorer",
+      "description": "Keyword Explorer provides popular related keywords to amplify your content optimization."
+    },
+    {
+      "name": "uk_politics",
+      "description": "Search through UK political documents such as speeches, press releases, voting records, and candidates' profiles."
+    },
+    {
+      "name": "abc_to_audio",
+      "description": "Converts ABC music notation to WAV, MIDI, and PostScript files."
+    },
+    {
+      "name": "TicTacToe",
+      "description": "Playing a game of Tic Tac Toe with varying board sizes. You can submit your move and get the AI's response move."
+    },
+    {
+      "name": "deployscript",
+      "description": "DeployScript effortlessly launches web apps, handling the tech for you. Watch your ideas come to life!"
+    },
+    {
+      "name": "Horoscopes_by_Inner_Self",
+      "description": "Daily, weekly, and monthly horoscopes tailored to you. Brought to you by Inner Self."
+    },
+    {
+      "name": "jini",
+      "description": "Get factual, knowledge-base and real-time information. \n Search news, images, videos, music, apps, pages and facts."
+    },
+    {
+      "name": "CranePumpsManuals",
+      "description": "Returns the catalog and manual for a pump based on model number."
+    },
+    {
+      "name": "themeparkhipster",
+      "description": "Find theme park waiting times around the world."
+    },
+    {
+      "name": "find_agency",
+      "description": "Find top marketing and design agencies around the World by service, locations, and ratings."
+    },
+    {
+      "name": "EmailByNylas",
+      "description": "Connect with any email provider and engage with your email data seamlessly."
+    },
+    {
+      "name": "CreditYelp",
+      "description": "Access various essential financial calculators for a detailed repayment schedule and payoff term."
+    },
+    {
+      "name": "Sudoku",
+      "description": "This is a sudoku game. You use voice or text to play."
+    },
+    {
+      "name": "noteable",
+      "description": "Create notebooks in Python, SQL, and Markdown to explore data, visualize, and share notebooks with everyone."
+    },
+    {
+      "name": "bramework",
+      "description": "Boost SEO with in-depth analysis, including keyword insights on volume, ranking, and SERP."
+    },
+    {
+      "name": "photorealistic",
+      "description": "Generate Photorealistic prompts for Midjourney."
+    },
+    {
+      "name": "metaphor_search_api",
+      "description": "Access the internet's highest quality content. Recommended by people, powered by neural search."
+    },
+    {
+      "name": "Dr_Thoths_Tarot",
+      "description": "Tarot card novelty entertainment & analysis, by Mnemosyne Labs."
+    },
+    {
+      "name": "cloudflare_radar",
+      "description": "Get real-time insights into Internet traffic patterns and threats as seen by Cloudflare."
+    },
+    {
+      "name": "dev",
+      "description": "Recommending posts and members from DEV Community."
+    },
+    {
+      "name": "decision_journal",
+      "description": "Become a better decision maker by keeping track of your decisions and reviewing how they turn out."
+    },
+    {
+      "name": "Visla",
+      "description": "Create a short video from public stock footage based on your specified topic."
+    },
+    {
+      "name": "form",
+      "description": "Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms."
+    },
+    {
+      "name": "AutoInfra1",
+      "description": "Talk to your Servers. Works with AWS, GCP, Azure, and anywhere you can ssh!"
+    },
+    {
+      "name": "Glowing",
+      "description": "Schedule and send daily SMS messages - reminders, inspiration, helpers and more."
+    },
+    {
+      "name": "SSH",
+      "description": "Ability to SSH into your server and turn your natural language into server commands. "
+    },
+    {
+      "name": "ABCmouse",
+      "description": "Provides fun and educational learning activities for children 2-8 years old."
+    },
+    {
+      "name": "hubbubworld_hubbub_1",
+      "description": "Local health risk & safety guidance for COVID-19, Flu, RSV and more in the US."
+    },
+    {
+      "name": "C3_Glide",
+      "description": "Get live aviation data for pilots. Ask questions about METARs, TAFs, NOTAMs for flight planning."
+    },
+    {
+      "name": "clearbit_integration",
+      "description": "Access Clearbit Enrichment, Prospecting, Reveal APIs and website visitors data to access information about companies."
+    },
+    {
+      "name": "keyplays_football",
+      "description": "Latest live soccer standings, results, commentary, tv stations, keyplays (with and without scores)."
+    },
+    {
+      "name": "Chess",
+      "description": "Unleash your inner chess master with this interactive chess experience! You can play against a novice or a grandmaster!"
+    },
+    {
+      "name": "blockatlas",
+      "description": "Search the US Census! Find data sets, ask questions, and visualize."
+    },
+    {
+      "name": "uberchord",
+      "description": "Find guitar chord diagrams by specifying the chord name."
+    },
+    {
+      "name": "IndoorPlants",
+      "description": "Trusted Information About Indoor Plants and Gardening."
+    },
+    {
+      "name": "internetSearch",
+      "description": "Search&Browse the web by using Google Search results with KeyMate.AI, your AI-powered web crawler."
+    },
+    {
+      "name": "buildbetter",
+      "description": "Chat with the knowledge of all your calls in BuildBetter (Zoom, GMeet, Webex). Start for free @ BuildBetter.ai"
+    },
+    {
+      "name": "portfoliopilot",
+      "description": "Your AI investing guide: portfolio assessment, recommendations, answers to all finance questions."
+    },
+    {
+      "name": "crafty_clues",
+      "description": "Guess the words that the AI craftily clues for you. Add restrictions to make the game more interesting!"
+    },
+    {
+      "name": "word_sneak",
+      "description": "The AI has to sneak 3 secret words into your conversation. Guess the words to win the game!"
+    },
+    {
+      "name": "kraftful",
+      "description": "Your product development coach. Ask about best practices. Get top gurus’ product thinking."
+    },
+    {
+      "name": "Bohita",
+      "description": "Create apparel with any image you can describe! Get it delivered right to your door."
+    },
+    {
+      "name": "competitorppcads",
+      "description": "Discover your competitors' best PPC ads by entering their website address."
+    },
+    {
+      "name": "seoanalysis",
+      "description": "Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors."
+    },
+    {
+      "name": "KalendarAI",
+      "description": "KalendarAI sales agents generate revenue with potential customers from 200+ million companies globally."
+    },
+    {
+      "name": "AppyPieAIAppBuilder",
+      "description": "AI-powered Text-to-App Generator turns your app idea into Android and iOS apps- just provide text input."
+    },
+    {
+      "name": "Algorithma",
+      "description": "Shape your virtual life with in this immersive life simulator game to begin Type /start to begin."
+    },
+    {
+      "name": "Creaticode_Extension_of_MIT_Scratch",
+      "description": "Display Scratch programs as images and write 2D/3D programs using CreatiCode Scratch extensions."
+    },
+    {
+      "name": "recipe_retrieval",
+      "description": "Discover recipe ideas, meal plans and cooking tips from Tasty's millions of users!"
+    },
+    {
+      "name": "speechki_tts_plugin",
+      "description": "The easiest way to convert texts to ready-to-use audio — download link, audio player page, or embed!"
+    },
+    {
+      "name": "Tax_Calculator",
+      "description": "Calculate sales tax given a U.S. address (or just a city) and an amount. Powered by Avalara."
+    },
+    {
+      "name": "Magnetis",
+      "description": "Magnetis is a digital wealth manager. Get updated data on portfolios returns and allocations. Ask me about Magnetis."
+    },
+    {
+      "name": "AI2sql",
+      "description": "Converts a natural language text into an SQL query."
+    },
+    {
+      "name": "haulingbuddies",
+      "description": "Locate dependable animal transporters using recommendations, reviews, and regulatory compliance search features."
+    },
+    {
+      "name": "SceneXplain",
+      "description": "SceneXplain lets you attach images to your prompt. Explore image storytelling beyond pixels."
+    },
+    {
+      "name": "speak",
+      "description": "Learn how to say anything in another language with Speak, your AI-powered language tutor."
+    },
+    {
+      "name": "Zapier",
+      "description": "Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more."
+    },
+    {
+      "name": "FinanceTool",
+      "description": "Stay informed with the latest financial updates, real-time insights, and analysis on a wide range of options, stocks, cryptocurrencies, and more."
+    },
+    {
+      "name": "ExchangeTool",
+      "description": "Seamlessly convert currencies with our integrated currency conversion tool."
+    },
+    {
+      "name": "NewsTool",
+      "description": "Stay connected to global events with our up-to-date news around the world."
+    },
+    {
+      "name": "PolishTool",
+      "description": "Elevate your content with our AI-powered tool, which utilizes advanced rewriting techniques to create more human-like expressions and foster creative inspiration."
+    },
+    {
+      "name": "CharityTool",
+      "description": "Empower your charitable endeavors by accessing a comprehensive platform featuring nonprofit organization data, including their mission, key personnel, ratings, and financial information."
+    },
+    {
+      "name": "MapTool",
+      "description": "Experience the next level of map navigation with our innovative chatbot, leveraging Google Maps API to generate customized map images based on location, tilt, and style, and even annotate maps using latitude and longitude coordinates."
+    },
+    {
+      "name": "CourseTool",
+      "description": "Unlock a world of knowledge and growth with our comprehensive learning platform, offering a diverse range of courses from renowned providers like Coursera and Upskillr, personalized language learning, professional team information lookup, open course schedule discovery, and top-tier university content."
+    },
+    {
+      "name": "DataRetrievalTool",
+      "description": "An tool that expands memory. It stores and retrieves user information to provide personalized assistance and generates real-time chat responses using the knowledge from the document collection."
+    },
+    {
+      "name": "StrologyTool",
+      "description": "Povides strology services for you."
+    },
+    {
+      "name": "NotesTool",
+      "description": "A full-featured reminder and to-do list management tool where you can add, delete, list, and mark reminders."
+    },
+    {
+      "name": "MemoryTool",
+      "description": "A learning application with spaced repetition functionality that allows users to create flashcards and review them."
+    },
+    {
+      "name": "LawTool",
+      "description": "Enables quick search functionality for relevant laws."
+    },
+    {
+      "name": "ChartTool",
+      "description": "A versatile chart and diagram tool that can create and display diagrams or using networkx and matplotlib. It allows you to build, modify, and draw various charts and graphs within the chat interface."
+    },
+    {
+      "name": "EarthquakeTool",
+      "description": "Provides real-time earthquake notifications and news."
+    },
+    {
+      "name": "NASATool",
+      "description": "A platform for exploring space, allowing users to search and discover NASA images and utilize NASA's vast media library."
+    },
+    {
+      "name": "CompanyInfoTool",
+      "description": "Obtain relevant information about global companies from databases or knowledge graphs."
+    },
+    {
+      "name": "ResumeTool",
+      "description": "Quickly create resumes and receive feedback on your resume."
+    },
+    {
+      "name": "MemeTool",
+      "description": "Create memes."
+    },
+    {
+      "name": "GiftTool",
+      "description": "Provide suggestions for gift selection."
+    },
+    {
+      "name": "PDF&URLTool",
+      "description": "Interact with any PDF files, provide page references for fact-checking, support chatting via Google Drive links to AI-driven PDF summaries and analysis; engage in interactive conversations with websites, access links on the internet to fetch required information, including generating articles and intelligent assistance for interactions with source code."
+    },
+    {
+      "name": "VideoSummarizeTool",
+      "description": "enerate summaries from YouTube video links, offer question-answering capabilities, analyze and interpret the content of YouTube videos, and support interactions with online video platforms such as YouTube and Daily Motion."
+    },
+    {
+      "name": "MediaModifyTool",
+      "description": "A versatile image editing application with a vast selection of user-generated filters, allowing you to effortlessly edit photos and videos. It includes embedded features such as resizing, cropping, and blurring."
+    },
+    {
+      "name": "DietTool",
+      "description": "A tool that simplifies calorie counting, tracks diet, and provides insights from many restaurants and grocery stores. Explore recipe , menus, and cooking tips from millions of users, and access recipe consultations and ingredient delivery services from thousands of stores."
+    },
+    {
+      "name": "WebsiteTool",
+      "description": "Quickly create and deploy websites, and publish content on them."
+    },
+    {
+      "name": "URLTool",
+      "description": "Provide domain and URL information and assist users with domain registration."
+    },
+    {
+      "name": "TripTool",
+      "description": "Offer discounted hotel and accommodation bookings, along with personalized hotel and product searches, travel planning, image editing, and more, helping users easily plan their trips and find accommodation and transportation options."
+    },
+    {
+      "name": "TripAdviceTool",
+      "description": "A comprehensive travel assistantn that makes travel planning more vivid and practical. It offers tourism activities, accommodation and attraction recommendations, aiming to provide users with a more enjoyable and enriching travel experience through technology."
+    },
+    {
+      "name": "BookTool",
+      "description": "AI-powered personalized book recommendations, access to free children's picture books, and the ability to search and create books on Wikidocs."
+    },
+    {
+      "name": "MediaTool",
+      "description": "Your media and entertainment companion, offering recommendations for TV shows, movies, books, and podcasts, while providing access to free ad-supported content across the web."
+    },
+    {
+      "name": "PodcastTool",
+      "description": "Search for podcasts and summarize their content."
+    },
+    {
+      "name": "MusicTool",
+      "description": "Create music playlists, search for music, and check out the latest music trends."
+    },
+    {
+      "name": "GameTool",
+      "description": "Get game-related information and recommend games."
+    },
+    {
+      "name": "WeatherTool",
+      "description": "Provide you with the latest weather information."
+    },
+    {
+      "name": "RestaurantBookingTool",
+      "description": "Tool for booking restaurant"
+    },
+    {
+      "name": "local",
+      "description": "Discover and support restaurants, shops & services near you."
+    },
+    {
+      "name": "HouseRentingTool",
+      "description": "Tool that provide all sorts of information about house renting"
+    },
+    {
+      "name": "HousePurchasingTool",
+      "description": "Tool that provide all sorts of information about house purchasing"
+    },
+    {
+      "name": "JobTool",
+      "description": "Your Global Career Hub! Find diverse job opportunities, expert interview tips, and resume optimization guidance. Empowering job seekers worldwide on their path to success."
+    },
+    {
+      "name": "RepoTool",
+      "description": "Discover GitHub projects tailored to your needs, explore their structures with insightful summaries, and get quick coding solutions with curated snippets. Elevate your coding journey with RepoTool, your go-to companion for GitHub project exploration and code mastery."
+    },
+    {
+      "name": "ResearchFinder",
+      "description": "Tool for searching academic papers."
+    },
+    {
+      "name": "ResearchHelper",
+      "description": "Tool that offers additional functions beyond searching academic papers, such as generating mind maps, answering user questions and storing them in specific formats."
+    },
+    {
+      "name": "SEOTool",
+      "description": "Tool that provides users with SEO analytics content."
+    },
+    {
+      "name": "ProductSearch",
+      "description": "Find products tailored to your preferences with personalized recommendations and smart filters for specific needs."
+    },
+    {
+      "name": "Discount",
+      "description": "Discover discounts and coupon codes to save money on products."
+    },
+    {
+      "name": "Review",
+      "description": "Analyze and summarize reviews, providing advantages and disadvantages analysis of products."
+    },
+    {
+      "name": "ProductComparison",
+      "description": "Compare multiple product options for informed decisions."
+    },
+    {
+      "name": "ShoppingAssistant",
+      "description": "Manage your cart, and display QR code for easy cart to enhance your online shopping experience."
+    }
+  ],
+  "queries": [
+    {
+      "id": "single-001",
+      "request": "Can you help me create flashcards for my biology exam?",
+      "relevant": [
+        "MemoryTool"
+      ],
+      "keywords": "flashcards create study"
+    },
+    {
+      "id": "single-002",
+      "request": "What were the comments or commentary during the England vs. Germany match in the European Championship?",
+      "relevant": [
+        "keyplays_football"
+      ],
+      "keywords": "England Germany European Championship match commentary"
+    },
+    {
+      "id": "single-003",
+      "request": "Please help me find 0.8723 raised to the power of 4.",
+      "relevant": [
+        "calculator"
+      ],
+      "keywords": "calculator power exponent"
+    },
+    {
+      "id": "single-004",
+      "request": "Tell me about the earthquakes in the Philippines!",
+      "relevant": [
+        "EarthquakeTool"
+      ],
+      "keywords": "earthquakes Philippines"
+    },
+    {
+      "id": "single-005",
+      "request": "Can you provide comprehensive insights, including specific numerical values and comparative analysis, on the average salary range for software developers? It would be highly beneficial if the insights encompassed various factors such as experience levels and geographical locations.",
+      "relevant": [
+        "JobTool"
+      ],
+      "keywords": "software developer salary average compensation"
+    },
+    {
+      "id": "single-006",
+      "request": "Our About Us page needs more compelling sales copy. Can you provide suggestions? Here's the link: [insert URL].",
+      "relevant": [
+        "copywriter"
+      ],
+      "keywords": "copywriting sales copy suggestions"
+    },
+    {
+      "id": "single-007",
+      "request": "I suspect someone may have accessed my email without permission. Can you check if my email address has been compromised in any data breaches or hacks?",
+      "relevant": [
+        "hacktrack"
+      ],
+      "keywords": "email breach compromise data hack check"
+    },
+    {
+      "id": "single-008",
+      "request": "What are some popular podcasts in the music category that users frequently request recommendations for in terms of genres such as pop, rock, jazz, hip-hop, classical, electronic, country, world music, and alternative?",
+      "relevant": [
+        "PodcastTool"
+      ],
+      "keywords": "music podcasts recommendations genres"
+    },
+    {
+      "id": "single-009",
+      "request": "I'm writing a historical piece and would love to include some old photographs to give it an authentic feel. Do you have any suggestions?",
+      "relevant": [
+        "ImageSearch"
+      ],
+      "keywords": "historical photographs archive"
+    },
+    {
+      "id": "single-010",
+      "request": "What health products can I find?",
+      "relevant": [
+        "tira"
+      ],
+      "keywords": "health products"
+    },
+    {
+      "id": "single-011",
+      "request": "I want to surprise my partner with a romantic experience in a beautiful beach location for our anniversary. What can you suggest? ",
+      "relevant": [
+        "GiftTool"
+      ],
+      "keywords": "romantic beach vacation anniversary travel planning"
+    },
+    {
+      "id": "single-012",
+      "request": "Certainly! Can you please provide me with the date and time of your arrival at Rome airport, as well as the number of passengers and any specific requirements or preferences you have for the airport transfer service?",
+      "relevant": [
+        "TripTool"
+      ],
+      "keywords": "airport transfer booking Rome"
+    },
+    {
+      "id": "single-013",
+      "request": "I want to create branded merchandise with custom designs, can you generate mockups for different products using my templates?",
+      "relevant": [
+        "placid"
+      ],
+      "keywords": "mockup generator branded merchandise custom designs"
+    },
+    {
+      "id": "single-014",
+      "request": "I'm planning a trip to Thailand and I need assistance in finding affordable accommodation options, popular tourist attractions to visit, recommended local cuisines to try, and any tips for navigating the city efficiently.",
+      "relevant": [
+        "TripTool"
+      ],
+      "keywords": "Thailand accommodation hotels budget"
+    },
+    {
+      "id": "single-015",
+      "request": "I'm going to a music festival. What trendy outfit would you suggest for that?",
+      "relevant": [
+        "AbleStyle"
+      ],
+      "keywords": "fashion outfit suggestions music festival"
+    },
+    {
+      "id": "single-016",
+      "request": "Can you provide me with the guitar chord diagram for a B minor chord?",
+      "relevant": [
+        "uberchord"
+      ],
+      "keywords": "guitar chord diagram"
+    },
+    {
+      "id": "single-017",
+      "request": "Hi there! I need a playlist that's perfect for a relaxing spa day, featuring soothing instrumental music, calming nature sounds, and tranquil melodies to create a serene atmosphere and enhance relaxation during the spa experience.",
+      "relevant": [
+        "MusicTool"
+      ],
+      "keywords": "create playlist spa relaxing music"
+    },
+    {
+      "id": "single-018",
+      "request": "Can you please provide me with the hourly weather updates for Madrid today, including information on temperature, humidity, precipitation, wind speed, and any other relevant weather conditions?",
+      "relevant": [
+        "WeatherTool"
+      ],
+      "keywords": "hourly weather forecast Madrid"
+    },
+    {
+      "id": "single-019",
+      "request": "Can you help me pick out an outfit?",
+      "relevant": [
+        "AbleStyle"
+      ],
+      "keywords": "outfit clothing fashion recommendation"
+    },
+    {
+      "id": "single-020",
+      "request": "I want to send a follow-up email specifically addressing the interviewer by name and expressing gratitude for their time, reiterating my interest in the position, highlighting key points discussed during the interview, and attaching any additional documents or references requested by the interviewer after a job interview.",
+      "relevant": [
+        "dover_outreach"
+      ],
+      "keywords": "email compose send follow-up"
+    },
+    {
+      "id": "single-021",
+      "request": "I can't believe how long that podcast was! Can you give me a quick summary? ",
+      "relevant": [
+        "PodcastTool"
+      ],
+      "keywords": "podcast summary"
+    },
+    {
+      "id": "single-022",
+      "request": "What frameworks can I use to improve my copywriting?",
+      "relevant": [
+        "copywriter"
+      ],
+      "keywords": "copywriting frameworks"
+    },
+    {
+      "id": "single-023",
+      "request": "I would like an audio version of my long article so that I can listen to it while jogging.",
+      "relevant": [
+        "speechki_tts_plugin"
+      ],
+      "keywords": "text to speech audio conversion"
+    },
+    {
+      "id": "single-024",
+      "request": "Can you tell me which charity organizations focus on children's education in Africa?",
+      "relevant": [
+        "CharityTool"
+      ],
+      "keywords": "charity organizations children's education Africa"
+    },
+    {
+      "id": "single-025",
+      "request": "I need assistance from someone who can conduct thorough and extensive research on a specific company, gathering detailed information regarding their operations, financials, market position, competitors, and any other relevant data.",
+      "relevant": [
+        "chatspot"
+      ],
+      "keywords": "company research analysis financial data"
+    },
+    {
+      "id": "single-026",
+      "request": "Perfect. I need tips on how to make my resume stand out for a job application.",
+      "relevant": [
+        "rephrase"
+      ],
+      "keywords": "resume tips job application"
+    },
+    {
+      "id": "single-027",
+      "request": "I need to buy some home improvement tools. Where can I find a hardware store nearby?",
+      "relevant": [
+        "HousePurchasingTool"
+      ],
+      "keywords": "hardware store nearby location"
+    },
+    {
+      "id": "single-028",
+      "request": "I suspect that a website I visited has malware. Can you scan it for any potential threats?",
+      "relevant": [
+        "hackit_web_scanner"
+      ],
+      "keywords": "malware scan website threat detection"
+    },
+    {
+      "id": "single-029",
+      "request": "I'd like to find a 2-bedroom apartment in Los Angeles that meets my criteria of having a monthly rent of under $2000.",
+      "relevant": [
+        "HouseRentingTool"
+      ],
+      "keywords": "apartment rental search Los Angeles"
+    },
+    {
+      "id": "single-030",
+      "request": "I'm feeling lost in my career. Can the tarot cards provide any guidance?",
+      "relevant": [
+        "Dr_Thoths_Tarot"
+      ],
+      "keywords": "tarot cards reading guidance"
+    },
+    {
+      "id": "single-031",
+      "request": "I need a video for my YouTube channel about healthy smoothie recipes. Can you create one for me?",
+      "relevant": [
+        "Visla"
+      ],
+      "keywords": "video creation YouTube"
+    },
+    {
+      "id": "single-032",
+      "request": "Show me a map of Tokyo with markers indicating popular tourist attractions.",
+      "relevant": [
+        "MapTool"
+      ],
+      "keywords": "map Tokyo tourist attractions markers"
+    },
+    {
+      "id": "single-033",
+      "request": "Users would like to inquire about the specific details regarding the average waiting time for roller coasters at Six Flags Magic Mountain.",
+      "relevant": [
+        "themeparkhipster"
+      ],
+      "keywords": "Six Flags Magic Mountain roller coaster wait times"
+    },
+    {
+      "id": "single-034",
+      "request": "I have an innovative idea for a fitness tracking app that not only monitors users' physical activities but also effectively provides insights on their nutrition and sleep patterns; however, lacking the necessary technical expertise and skills, I am unable to transform this idea into a functional reality.",
+      "relevant": [
+        "AppyPieAIAppBuilder"
+      ],
+      "keywords": "app development fitness tracking"
+    },
+    {
+      "id": "single-035",
+      "request": "Can you suggest some gifts for an anniversary?",
+      "relevant": [
+        "GiftTool"
+      ],
+      "keywords": "anniversary gifts suggestions"
+    },
+    {
+      "id": "single-036",
+      "request": "Do you know of any tools that can assist me with task management and organization?",
+      "relevant": [
+        "NotesTool"
+      ],
+      "keywords": "task management organization"
+    },
+    {
+      "id": "single-037",
+      "request": "What can I do to improve the SEO of my website?",
+      "relevant": [
+        "seoanalysis"
+      ],
+      "keywords": "SEO optimization website improvement"
+    },
+    {
+      "id": "single-038",
+      "request": "Can you please provide me with the details of the latest product launched by Samsung Electronics, including its specifications, features, and availability?",
+      "relevant": [
+        "CompanyInfoTool"
+      ],
+      "keywords": "Samsung Electronics latest product launch specifications features"
+    },
+    {
+      "id": "single-039",
+      "request": "I'm searching for a rental property in San Francisco with a patio or balcony that offers a spacious outdoor seating area for relaxation and entertaining purposes.",
+      "relevant": [
+        "HouseRentingTool"
+      ],
+      "keywords": "rental property San Francisco patio balcony"
+    },
+    {
+      "id": "single-040",
+      "request": "Can you compare the prices of the domain \"bestproducts.net\" across different registrars, including popular ones such as GoDaddy, Namecheap, and Bluehost, and provide a detailed analysis of the pricing plans they offer? Additionally, could you suggest the registrar that offers the most affordable option or any available discounts to help me make a purchase decision?",
+      "relevant": [
+        "URLTool"
+      ],
+      "keywords": "domain price comparison registrar"
+    },
+    {
+      "id": "single-041",
+      "request": "Please provide me with the most recent and up-to-date news specifically related to the cryptocurrency known as Litecoin, including any pertinent information or developments.",
+      "relevant": [
+        "FinanceTool"
+      ],
+      "keywords": "Litecoin news cryptocurrency"
+    },
+    {
+      "id": "single-042",
+      "request": "Help me find the newest public and private studies focusing on novel treatments for diabetes.",
+      "relevant": [
+        "clinical_trial_radar"
+      ],
+      "keywords": "diabetes novel treatments studies research"
+    },
+    {
+      "id": "single-043",
+      "request": "I'm actively searching for modern and affordable apartments in various neighborhoods of diverse New York City, such as Manhattan, Brooklyn or Queens, that are close to public transportation, have convenient access to grocery stores, restaurants, and parks, and are equipped with reliable security systems for a safe and secure living environment.",
+      "relevant": [
+        "HousePurchasingTool"
+      ],
+      "keywords": "apartment rental search New York City"
+    },
+    {
+      "id": "single-044",
+      "request": "Can you find, summarize, and provide a research paper with Arxiv ID 1905.12345?",
+      "relevant": [
+        "ResearchHelper"
+      ],
+      "keywords": "arxiv paper research"
+    },
+    {
+      "id": "single-045",
+      "request": "Hi there! I'm looking to improve my SEO strategy. Can you analyze my keywords in detail to give me insights on search volume, ranking difficulty, and SERP analysis?",
+      "relevant": [
+        "bramework"
+      ],
+      "keywords": "SEO keyword analysis search volume ranking difficulty SERP"
+    },
+    {
+      "id": "single-046",
+      "request": "I'm feeling a bit nostalgic today, so I would like to browse through some old photographs, listen to music from my childhood, and maybe even revisit some of my favorite childhood places.",
+      "relevant": [
+        "MusicTool"
+      ],
+      "keywords": "photo gallery viewer"
+    },
+    {
+      "id": "single-047",
+      "request": "I'm feeling a bit down, can you share a hadith about hope and positivity?",
+      "relevant": [
+        "hadith"
+      ],
+      "keywords": "hadith hope positivity"
+    },
+    {
+      "id": "single-048",
+      "request": "I need to write a comprehensive and detailed report, including significant events, key figures, causes, and consequences, on the extensive and complex history of World War II, covering the period between 1939 and 1945, involving multiple countries and theaters of conflict across the globe.",
+      "relevant": [
+        "PDF&URLTool"
+      ],
+      "keywords": "report writing document creation"
+    },
+    {
+      "id": "single-049",
+      "request": "Do we have any earthquake news for the west coast of the United States today?",
+      "relevant": [
+        "EarthquakeTool"
+      ],
+      "keywords": "earthquake news west coast United States"
+    },
+    {
+      "id": "single-050",
+      "request": "What are the top-rated Sake brands on Sakenowa?",
+      "relevant": [
+        "sakenowa"
+      ],
+      "keywords": "Sakenowa sake brands ratings"
+    },
+    {
+      "id": "single-051",
+      "request": "Can you provide me with a downloadable PDF of our conversation?",
+      "relevant": [
+        "PDF_Exporter"
+      ],
+      "keywords": "PDF export conversation download"
+    },
+    {
+      "id": "single-052",
+      "request": "Can you answer questions based on this YouTube video about the history of ancient civilizations?",
+      "relevant": [
+        "VideoSummarizeTool"
+      ],
+      "keywords": "YouTube video transcript"
+    },
+    {
+      "id": "single-053",
+      "request": "Could you clarify the steps to bake a chocolate cake?",
+      "relevant": [
+        "PolishTool"
+      ],
+      "keywords": "chocolate cake baking recipe instructions"
+    },
+    {
+      "id": "single-054",
+      "request": "I urgently require extensive code samples that specifically illustrate how to make HTTP requests in Python utilizing the highly popular requests library.",
+      "relevant": [
+        "RepoTool"
+      ],
+      "keywords": "Python requests library HTTP examples"
+    },
+    {
+      "id": "single-055",
+      "request": "Can you assist me in creating a comprehensive Reflect note that accurately captures all the important details and key information that was thoroughly discussed and exchanged during our chat session?",
+      "relevant": [
+        "reflect_notes"
+      ],
+      "keywords": "Reflect note create"
+    },
+    {
+      "id": "single-056",
+      "request": "I need specific examples and successful case studies that can provide me with innovative ideas and fresh perspectives to ignite creativity and drive successful outcomes for my new project.",
+      "relevant": [
+        "NewsTool"
+      ],
+      "keywords": "case studies examples success stories"
+    },
+    {
+      "id": "single-057",
+      "request": "Where can I configure permissions and environment variables in the Noteable UI?",
+      "relevant": [
+        "noteable"
+      ],
+      "keywords": "Noteable UI permissions environment variables configuration"
+    },
+    {
+      "id": "single-058",
+      "request": "I would like a map that specifically shows the coordinates 37.7749鎺 N, 122.4194鎺 W, and it should have a marker placed on those exact coordinates.",
+      "relevant": [
+        "MapTool"
+      ],
+      "keywords": "map coordinates marker"
+    },
+    {
+      "id": "single-059",
+      "request": "Can you give me some updates on the local news in the United States?",
+      "relevant": [
+        "NewsTool"
+      ],
+      "keywords": "local news United States"
+    },
+    {
+      "id": "single-060",
+      "request": "Can you tell me the current ranking of the Lakers in the NBA?",
+      "relevant": [
+        "ndricks_sports_api"
+      ],
+      "keywords": "NBA standings Lakers ranking"
+    },
+    {
+      "id": "single-061",
+      "request": "What is the average daily petrol price in New South Wales?",
+      "relevant": [
+        "AusPetrolPrices"
+      ],
+      "keywords": "petrol price New South Wales"
+    },
+    {
+      "id": "single-062",
+      "request": "I would like to have access to a comprehensive and up-to-date resource that provides detailed information and latest developments specifically focused on the advancements in the field of quantum computing.",
+      "relevant": [
+        "ResearchFinder"
+      ],
+      "keywords": "quantum computing information resource latest developments"
+    },
+    {
+      "id": "single-063",
+      "request": "I have a home bakery and I want to expand my customer base by having an online presence. Can you help me design a website that reflects the unique nature of my baked goods?",
+      "relevant": [
+        "WebsiteTool"
+      ],
+      "keywords": "website builder design"
+    },
+    {
+      "id": "single-064",
+      "request": "I'm looking to save some money while shopping online by finding discount codes, comparing prices from different websites, and taking advantage of any special promotions or deals available.",
+      "relevant": [
+        "Discount"
+      ],
+      "keywords": "discount codes coupon finder"
+    },
+    {
+      "id": "single-065",
+      "request": "I need a user-friendly mobile budgeting app that offers customizable categories to track and analyze my daily expenses accurately, while providing detailed reports and visualized graphs to help me monitor my financial health effortlessly.",
+      "relevant": [
+        "AppyPieAIAppBuilder"
+      ],
+      "keywords": "mobile budgeting app expense tracking categories reports graphs"
+    },
+    {
+      "id": "single-066",
+      "request": "What is the Companies House Number for Tesco and what is their current financial status?",
+      "relevant": [
+        "CompanyInfoTool"
+      ],
+      "keywords": "Companies House number lookup"
+    },
+    {
+      "id": "single-067",
+      "request": "I'd like to know what the tarot cards reveal about my love life.",
+      "relevant": [
+        "Dr_Thoths_Tarot"
+      ],
+      "keywords": "tarot cards love life reading"
+    },
+    {
+      "id": "single-068",
+      "request": "I would like to receive a variety of delicious, easy-to-make and healthy vegan recipes specific to the afternoon time sent to me as SMS messages by a specific frequency, such as daily or weekly.",
+      "relevant": [
+        "Glowing"
+      ],
+      "keywords": "vegan recipes SMS delivery"
+    },
+    {
+      "id": "single-069",
+      "request": "I'm brainstorming for my upcoming presentation and need a visual representation. Can you guide me on how to create a diagram using this tool?",
+      "relevant": [
+        "ChartTool"
+      ],
+      "keywords": "diagram creation visual representation"
+    },
+    {
+      "id": "single-070",
+      "request": "Hi there, could you please generate an SEO report for my website and suggest improvements based on the results?",
+      "relevant": [
+        "SEOTool"
+      ],
+      "keywords": "SEO report analysis"
+    },
+    {
+      "id": "single-071",
+      "request": "Convert 100 CAD to USD for me.",
+      "relevant": [
+        "ExchangeTool"
+      ],
+      "keywords": "currency conversion CAD USD"
+    },
+    {
+      "id": "single-072",
+      "request": "Could you please provide me with some popular self-help books that you personally recommend, taking into consideration the specific interests and needs of the users?",
+      "relevant": [
+        "BookTool"
+      ],
+      "keywords": "self-help books recommendations"
+    },
+    {
+      "id": "single-073",
+      "request": "Can you assist me in finding internships for college students in the field of journalism?",
+      "relevant": [
+        "JobTool"
+      ],
+      "keywords": "journalism internships college students"
+    },
+    {
+      "id": "single-074",
+      "request": "What are the most recent and significant news or updates in the technology industry currently, specifically focusing on the top headlines from reputable sources?",
+      "relevant": [
+        "ResearchHelper"
+      ],
+      "keywords": "technology news headlines latest updates"
+    },
+    {
+      "id": "single-075",
+      "request": "Could you count the number of words in this poem I just penned? ",
+      "relevant": [
+        "word_counter"
+      ],
+      "keywords": "word count"
+    },
+    {
+      "id": "single-076",
+      "request": "I need a filter to give my travel video a cinematic feel.",
+      "relevant": [
+        "MediaModifyTool"
+      ],
+      "keywords": "cinematic filter video"
+    },
+    {
+      "id": "single-077",
+      "request": "Can you help me find potential customers for my business?",
+      "relevant": [
+        "KalendarAI"
+      ],
+      "keywords": "find customers leads prospecting"
+    },
+    {
+      "id": "single-078",
+      "request": "Do you have any books from StoryBee?",
+      "relevant": [
+        "BookTool"
+      ],
+      "keywords": "StoryBee books"
+    },
+    {
+      "id": "single-079",
+      "request": "What are the specific injury updates, including the type of injuries and recovery status, for the players of the Washington Football Team?",
+      "relevant": [
+        "ndricks_sports_api"
+      ],
+      "keywords": "Washington Football Team injury updates"
+    },
+    {
+      "id": "single-080",
+      "request": "Finding specific information in this Google Drive document is such a hassle! ",
+      "relevant": [
+        "PDF&URLTool"
+      ],
+      "keywords": "Google Drive document search"
+    },
+    {
+      "id": "single-081",
+      "request": "I need recommendations for a good sci-fi movie to watch tonight.",
+      "relevant": [
+        "lsongai"
+      ],
+      "keywords": "movie recommendations sci-fi"
+    },
+    {
+      "id": "single-082",
+      "request": "Hi! Can you help me find funding opportunities in the technology sector in the UK?",
+      "relevant": [
+        "fundsdbsearch"
+      ],
+      "keywords": "funding opportunities technology UK"
+    },
+    {
+      "id": "single-083",
+      "request": "I'm looking for Substack newsletters that focus on finance and investment strategies. Can you help me find the best ones?",
+      "relevant": [
+        "Substack_IQ"
+      ],
+      "keywords": "Substack finance investment newsletters"
+    },
+    {
+      "id": "single-084",
+      "request": "What is the status of the car park lots?",
+      "relevant": [
+        "hdbcarpark"
+      ],
+      "keywords": "car park lots status"
+    },
+    {
+      "id": "single-085",
+      "request": "I need to know where I can find the latest stock and pricing information for Arduino Uno preferably from reliable and reputable retailers or distributors.",
+      "relevant": [
+        "ProductSearch"
+      ],
+      "keywords": "Arduino Uno stock pricing retailers"
+    },
+    {
+      "id": "single-086",
+      "request": "What are the horoscope predictions for Sagittarius for the remainder of this month?",
+      "relevant": [
+        "Horoscopes_by_Inner_Self"
+      ],
+      "keywords": "horoscope Sagittarius predictions"
+    },
+    {
+      "id": "single-087",
+      "request": "Wow, I can finally integrate my Outlook account with EmailByNylas! How can I compose a new email?",
+      "relevant": [
+        "EmailByNylas"
+      ],
+      "keywords": "EmailByNylas compose email"
+    },
+    {
+      "id": "single-088",
+      "request": "Hey there! I'm looking for some awesome Father's Day gift ideas for my dad. Any suggestions?\" ",
+      "relevant": [
+        "shimmer_daily"
+      ],
+      "keywords": "Father's Day gift ideas"
+    },
+    {
+      "id": "single-089",
+      "request": "How about incorporating a thrilling and interactive guessing game into our activities to ensure the entertainment level remains high and captivates the users?",
+      "relevant": [
+        "crafty_clues"
+      ],
+      "keywords": "guessing game interactive entertainment"
+    },
+    {
+      "id": "single-090",
+      "request": "Can you provide me with some examples of successful product launches and the strategies behind them?",
+      "relevant": [
+        "kraftful"
+      ],
+      "keywords": "product launch strategy examples"
+    },
+    {
+      "id": "single-091",
+      "request": "I'm looking for highly specific and up-to-date marketing data related to a particular industry, which includes information on consumer behavior, market trends, competitors' strategies, and segmentation analysis.",
+      "relevant": [
+        "chatspot"
+      ],
+      "keywords": "marketing data consumer behavior market trends analysis"
+    },
+    {
+      "id": "single-092",
+      "request": "Could you help us generate a 3D animation explaining the workings of our new engineering prototype?",
+      "relevant": [
+        "heygen"
+      ],
+      "keywords": "3D animation generation engineering prototype"
+    },
+    {
+      "id": "single-093",
+      "request": "Please provide the current price of Chainlink (LINK) in Brazilian Real, along with any relevant additional details or information.",
+      "relevant": [
+        "FinanceTool"
+      ],
+      "keywords": "Chainlink LINK price Brazilian Real"
+    },
+    {
+      "id": "single-094",
+      "request": "Is the statement that mutual assent must be unambiguous supported by the ABC Corp. v. DEF Inc., 123 F.3d 456 (S.D.N.Y 2006) case?",
+      "relevant": [
+        "LawTool"
+      ],
+      "keywords": "ABC Corp v DEF Inc 123 F.3d 456 mutual assent unambiguous"
+    },
+    {
+      "id": "single-095",
+      "request": "I want to make a chocolate chip cookie. What ingredients do I need? ",
+      "relevant": [
+        "DietTool"
+      ],
+      "keywords": "chocolate chip cookie recipe ingredients"
+    },
+    {
+      "id": "single-096",
+      "request": "Could you please search and retrieve the guitar chord positions, including finger placements and fret numbers, for a G7 chord? I would greatly appreciate it. Thank you so much!",
+      "relevant": [
+        "uberchord"
+      ],
+      "keywords": "guitar chord G7 positions finger placements fret"
+    },
+    {
+      "id": "single-097",
+      "request": "I'm overwhelmed by the number of items in my cart. How can I manage my online purchases?",
+      "relevant": [
+        "ShoppingAssistant"
+      ],
+      "keywords": "cart management shopping"
+    },
+    {
+      "id": "single-098",
+      "request": "How much return, in terms of percentage, has my diversified investment portfolio generated, taking into consideration all the gains and losses, over the course of the most recent 365 days, also known as the past year?",
+      "relevant": [
+        "Magnetis"
+      ],
+      "keywords": "investment portfolio returns performance"
+    },
+    {
+      "id": "single-099",
+      "request": "Hi there! I came across a tech website that has a comprehensive guide on building a gaming PC. Can you scrape the page and help me understand the steps involved?",
+      "relevant": [
+        "web_scraper"
+      ],
+      "keywords": "web scraping"
+    },
+    {
+      "id": "single-100",
+      "request": "I'm furious! These theme park lines are ruining my day. Can you assist me in finding the waiting times for theme parks worldwide?\" ",
+      "relevant": [
+        "themeparkhipster"
+      ],
+      "keywords": "theme park wait times"
+    },
+    {
+      "id": "single-101",
+      "request": "What are the best racing games for PC?",
+      "relevant": [
+        "GameTool"
+      ],
+      "keywords": "best racing games PC"
+    },
+    {
+      "id": "single-102",
+      "request": "Is it important, in order to properly understand and analyze the outcomes of the MBTI test, to consult with a qualified expert who possesses expertise in interpreting psychological assessments and has a thorough understanding of the intricacies of the MBTI framework?",
+      "relevant": [
+        "mbti"
+      ],
+      "keywords": "MBTI Myers-Briggs Type Indicator assessment interpretation"
+    },
+    {
+      "id": "single-103",
+      "request": "How have my portfolios performed over the past quarter via Magnetis?",
+      "relevant": [
+        "Magnetis"
+      ],
+      "keywords": "Magnetis portfolio performance"
+    },
+    {
+      "id": "single-104",
+      "request": "Can you assist me in locating the best pizza place in town that offers a wide variety of toppings and crust options, as well as excellent customer reviews and affordable prices?",
+      "relevant": [
+        "rephrase"
+      ],
+      "keywords": "pizza restaurant finder reviews ratings"
+    },
+    {
+      "id": "single-105",
+      "request": "It would be greatly appreciated if you could promptly generate a PDF file containing a complete and detailed transcript of our entire chat history for our reference and further analysis.",
+      "relevant": [
+        "PDF_Exporter"
+      ],
+      "keywords": "PDF generation transcript chat history"
+    },
+    {
+      "id": "single-106",
+      "request": "Can you assist me in finding scholarly peer-reviewed academic sources from reputable journals and databases, specifically related to human behavior and psychology, that cover a wide range of topics such as cognitive psychology, social psychology, developmental psychology, and abnormal psychology?",
+      "relevant": [
+        "ResearchFinder"
+      ],
+      "keywords": "scholarly peer-reviewed academic journals psychology"
+    },
+    {
+      "id": "single-107",
+      "request": "How can I generate a website in a few seconds for my online store?",
+      "relevant": [
+        "WebsiteTool"
+      ],
+      "keywords": "website builder online store ecommerce"
+    },
+    {
+      "id": "single-108",
+      "request": "Hi there! Can you tell me how the stack works in Magic: The Gathering?",
+      "relevant": [
+        "magi_codex"
+      ],
+      "keywords": "Magic The Gathering stack rules"
+    },
+    {
+      "id": "single-109",
+      "request": "I have an ABC notation file that contains a musical composition written in ABC notation, a common format for music notation in plain text. Could you kindly assist me by converting this ABC notation file into a MIDI file, which is a digital audio format that can be played on various devices and software?",
+      "relevant": [
+        "abc_to_audio"
+      ],
+      "keywords": "ABC notation MIDI conversion"
+    },
+    {
+      "id": "single-110",
+      "request": "I can't believe I have to cook dinner again tonight. Give me a dinner recipe for two.",
+      "relevant": [
+        "DietTool"
+      ],
+      "keywords": "dinner recipe"
+    },
+    {
+      "id": "single-111",
+      "request": "Can you analyze and provide detailed insights, explanations, and interpretations on this specific YouTube video about quantum mechanics using the provided URL?",
+      "relevant": [
+        "VideoSummarizeTool"
+      ],
+      "keywords": "YouTube video analysis quantum mechanics"
+    },
+    {
+      "id": "single-112",
+      "request": "Can you give me an idea of the cloud cover in Beijing next weekend?",
+      "relevant": [
+        "WeatherTool"
+      ],
+      "keywords": "weather forecast Beijing"
+    },
+    {
+      "id": "single-113",
+      "request": "Hi there! I'm a Pisces. Could you please provide me with my weekly horoscope?",
+      "relevant": [
+        "Horoscopes_by_Inner_Self"
+      ],
+      "keywords": "horoscope weekly Pisces"
+    },
+    {
+      "id": "single-114",
+      "request": "Could you elaborate on how blockchain technology operates behind the scenes in cryptocurrencies?",
+      "relevant": [
+        "word_sneak"
+      ],
+      "keywords": "blockchain cryptocurrency technology"
+    },
+    {
+      "id": "single-115",
+      "request": "I am writing about Asian cuisine. Could you suggest an image that would embody the entire theme?",
+      "relevant": [
+        "ImageSearch"
+      ],
+      "keywords": "image search Asian cuisine"
+    },
+    {
+      "id": "single-116",
+      "request": "Please provide information on the specific discounts and promotions currently available on Tira for cosmetics, including details such as the percentage or amount of the discounts, any specific brands or products included, the duration of the promotions, and any additional perks or benefits associated with them.",
+      "relevant": [
+        "tira"
+      ],
+      "keywords": "Tira cosmetics discounts promotions"
+    },
+    {
+      "id": "single-117",
+      "request": "Can you provide a comprehensive explanation of the concept of kiting in video games, specifically the technique of efficiently maneuvering your character to maintain distance from the enemy while continuously dealing damage or casting spells?",
+      "relevant": [
+        "champdex"
+      ],
+      "keywords": "kiting video games technique guide"
+    },
+    {
+      "id": "single-118",
+      "request": "What are some popular apps for meditation and mindfulness?",
+      "relevant": [
+        "jini"
+      ],
+      "keywords": "meditation mindfulness apps"
+    },
+    {
+      "id": "single-119",
+      "request": "What is the current exchange rate for 500 Canadian dollars to Swiss francs based on the most accurate and up-to-date information from reliable financial sources?",
+      "relevant": [
+        "ExchangeTool"
+      ],
+      "keywords": "exchange rate currency converter CAD CHF"
+    },
+    {
+      "id": "single-120",
+      "request": "Can you source me a catalog detailing the parts of pump model XZR654? I need to replace some parts.",
+      "relevant": [
+        "CranePumpsManuals"
+      ],
+      "keywords": "pump parts catalog XZR654"
+    },
+    {
+      "id": "single-121",
+      "request": "Can you create a line chart with clear and labelled axes, such as time on the x-axis and sales on the y-axis, to visually represent the sales trend over the last year, including all relevant data points for each time interval?",
+      "relevant": [
+        "ChartTool"
+      ],
+      "keywords": "line chart sales trend visualization"
+    },
+    {
+      "id": "single-122",
+      "request": "I'm looking for the presentation slides from yesterday's meeting that include all the charts, graphs, and data analysis presented by the speaker.",
+      "relevant": [
+        "DataRetrievalTool"
+      ],
+      "keywords": "presentation slides meeting charts graphs data"
+    },
+    {
+      "id": "single-123",
+      "request": "Can you record my grade after I attempt to recall the information on a flashcard?",
+      "relevant": [
+        "MemoryTool"
+      ],
+      "keywords": "flashcard grade record"
+    },
+    {
+      "id": "single-124",
+      "request": "Please check the current map for APEX Legends Ranked. I want to prepare some tactics.",
+      "relevant": [
+        "ApexMap"
+      ],
+      "keywords": "APEX Legends Ranked map current"
+    },
+    {
+      "id": "single-125",
+      "request": "Where can I find the official NASA app?",
+      "relevant": [
+        "jini"
+      ],
+      "keywords": "NASA official app"
+    },
+    {
+      "id": "single-126",
+      "request": "Can you provide me information about the availability of any contemporary artworks in the museum's collection?",
+      "relevant": [
+        "ArtCollection"
+      ],
+      "keywords": "museum collection contemporary artworks availability"
+    },
+    {
+      "id": "single-127",
+      "request": "I'm currently in search of a DSLR camera that is affordable and within my budget range.",
+      "relevant": [
+        "ProductSearch"
+      ],
+      "keywords": "DSLR camera affordable budget"
+    },
+    {
+      "id": "single-128",
+      "request": "I'm curious about the coordinates of the International Space Station.",
+      "relevant": [
+        "locator"
+      ],
+      "keywords": "International Space Station coordinates location"
+    },
+    {
+      "id": "single-129",
+      "request": "I need a recipe for a moist, chocolate gluten-free cake that uses almond flour and coconut milk, and includes optional instructions for a dairy-free frosting.",
+      "relevant": [
+        "recipe_retrieval"
+      ],
+      "keywords": "gluten-free chocolate cake recipe almond flour coconut milk"
+    },
+    {
+      "id": "single-130",
+      "request": "I'm learning Russian, can you provide me with some examples of how to use the word \"спасибо\" (spasibo) in a sentence?",
+      "relevant": [
+        "MixerBox_Translate_AI_language_tutor"
+      ],
+      "keywords": "Russian language examples sentences"
+    },
+    {
+      "id": "single-131",
+      "request": "I just painted a picture of a countryside, what hashtag and soundtrack do you think would go well with it?",
+      "relevant": [
+        "social_media_muse"
+      ],
+      "keywords": "hashtag generator"
+    },
+    {
+      "id": "single-132",
+      "request": "Could you please provide me with a detailed list of the most recent acquisitions made by the specific company I am interested in?",
+      "relevant": [
+        "clearbit_integration"
+      ],
+      "keywords": "company acquisitions recent"
+    },
+    {
+      "id": "single-133",
+      "request": "I'd like to see how my name looks in ASCII font, can you help?",
+      "relevant": [
+        "Figlet"
+      ],
+      "keywords": "ASCII art text font"
+    },
+    {
+      "id": "single-134",
+      "request": "I need a list of the best-selling books in the mystery genre for the past year. Can you provide that?",
+      "relevant": [
+        "web_scraper"
+      ],
+      "keywords": "best-selling books mystery genre"
+    },
+    {
+      "id": "single-135",
+      "request": "This language course is not meeting my expectations at all. I need personalized lessons to improve my skills. Can you connect me with online tutors or language teachers who can provide that?",
+      "relevant": [
+        "CourseTool"
+      ],
+      "keywords": "online tutors language teachers"
+    },
+    {
+      "id": "single-136",
+      "request": "I'm specifically looking for information on grants, loans, and government schemes that support entrepreneurial ventures and provide financial support to small businesses in the United Kingdom.",
+      "relevant": [
+        "fundsdbsearch"
+      ],
+      "keywords": "UK grants loans government schemes small business entrepreneurship financial support"
+    },
+    {
+      "id": "single-137",
+      "request": "One possible way to save this conversation is by clicking on the \"Save\" button located at the top right corner of the chat window. Additionally, you can also choose to export the conversation as a text file or take a screenshot of the chat for future reference.",
+      "relevant": [
+        "exportchat"
+      ],
+      "keywords": "save conversation export chat"
+    },
+    {
+      "id": "single-138",
+      "request": "I want to compare the player reviews for \"Cyberpunk 2077\" and \"The Witcher 3\".",
+      "relevant": [
+        "GameTool"
+      ],
+      "keywords": "player reviews game ratings"
+    },
+    {
+      "id": "single-139",
+      "request": "Can you provide specific tips, techniques, and best practices for effectively creating user personas that accurately represent the goals, needs, behaviors, and demographics of target users in order to inform user-centered design decisions?",
+      "relevant": [
+        "kraftful"
+      ],
+      "keywords": "user personas creation techniques best practices"
+    },
+    {
+      "id": "single-140",
+      "request": "I need some exclusive discount codes that can be applied for online shopping on various popular e-commerce platforms.",
+      "relevant": [
+        "Discount"
+      ],
+      "keywords": "discount codes coupon codes e-commerce shopping"
+    },
+    {
+      "id": "single-141",
+      "request": "I have a set of presentation slides, can you generate PDFs with different background images for each slide?",
+      "relevant": [
+        "placid"
+      ],
+      "keywords": "PDF generation presentation slides background images"
+    },
+    {
+      "id": "single-142",
+      "request": "Could I order a custom T-shirt with a picture of my face edited onto a superhero body?",
+      "relevant": [
+        "Bohita"
+      ],
+      "keywords": "custom t-shirt printing face photo"
+    },
+    {
+      "id": "single-143",
+      "request": "You can integrate your Salesforce data with other applications using the ChatGPT plugin by following these steps: 1. Open the ChatGPT plugin in Salesforce. 2. Navigate to the integration settings. 3. Connect your Salesforce account with the desired application using the provided authentication options. 4. Customize the integration by selecting the specific Salesforce data and fields you want to sync with the other app. 5. Save the settings to establish the integration and enable data transfer between Salesforce and the selected application.",
+      "relevant": [
+        "Zapier"
+      ],
+      "keywords": "Salesforce ChatGPT plugin integration"
+    },
+    {
+      "id": "single-144",
+      "request": "Can you please use your information retrieval capability to search for recent speeches delivered by the Prime Minister of the United Kingdom and provide me with the most up-to-date ones available?",
+      "relevant": [
+        "uk_politics"
+      ],
+      "keywords": "UK Prime Minister speeches recent"
+    },
+    {
+      "id": "single-145",
+      "request": "What are some recommended design courses for beginners?",
+      "relevant": [
+        "search"
+      ],
+      "keywords": "design courses for beginners"
+    },
+    {
+      "id": "single-146",
+      "request": "Show me some code snippets for CRUD operations in Node.js.",
+      "relevant": [
+        "RepoTool"
+      ],
+      "keywords": "Node.js CRUD operations code examples"
+    },
+    {
+      "id": "single-147",
+      "request": "Please provide me with detailed tips, strategies, and resources for successfully starting a small business.",
+      "relevant": [
+        "internetSearch"
+      ],
+      "keywords": "small business startup guide tips strategies"
+    },
+    {
+      "id": "single-148",
+      "request": "How do I get a manual for a pump with model number XYZ?",
+      "relevant": [
+        "CranePumpsManuals"
+      ],
+      "keywords": "pump manual XYZ model"
+    },
+    {
+      "id": "single-149",
+      "request": "Can you recommend any good suit stores in my area?",
+      "relevant": [
+        "Man_of_Many"
+      ],
+      "keywords": "suit stores near me"
+    },
+    {
+      "id": "single-150",
+      "request": "I'm ready to start my virtual life! Let's go!",
+      "relevant": [
+        "Algorithma"
+      ],
+      "keywords": "virtual life simulation game"
+    },
+    {
+      "id": "single-151",
+      "request": "I am looking for a user-friendly and reliable method that would enable me to effectively track and document all of my investing decisions and subsequently analyze their outcomes. I believe that having the ability to thoroughly review and assess the results would greatly assist me in enhancing my overall investment strategies.",
+      "relevant": [
+        "decision_journal"
+      ],
+      "keywords": "investment tracking portfolio analysis"
+    },
+    {
+      "id": "single-152",
+      "request": "I'm planning to start a new website and I have a few domain names in mind like amazon.com and ebay.com. Could you check if they are available?",
+      "relevant": [
+        "URLTool"
+      ],
+      "keywords": "domain availability check"
+    },
+    {
+      "id": "single-153",
+      "request": "I would like to know where the nearest charging stations are for my Audi e-Tron as I'm traveling through France.",
+      "relevant": [
+        "SuperchargeMyEV"
+      ],
+      "keywords": "EV charging stations France"
+    },
+    {
+      "id": "single-154",
+      "request": "Could you help me roll a Fate/Fudge dice for my character's reaction to the surprise attack?",
+      "relevant": [
+        "diceroller"
+      ],
+      "keywords": "Fate Fudge dice roll"
+    },
+    {
+      "id": "single-155",
+      "request": "Compare the topics covered in the last five articles of Ben Thompson's Substack newsletter.",
+      "relevant": [
+        "Substack_IQ"
+      ],
+      "keywords": "Ben Thompson Substack newsletter articles"
+    },
+    {
+      "id": "single-156",
+      "request": "I need information about the impact of climate change on biodiversity.",
+      "relevant": [
+        "internetSearch"
+      ],
+      "keywords": "climate change biodiversity impact"
+    },
+    {
+      "id": "single-157",
+      "request": "I want to enhance my leadership skills. Are there any executive education programs or courses on Coursera that you can recommend?",
+      "relevant": [
+        "CourseTool"
+      ],
+      "keywords": "Coursera executive education leadership courses"
+    },
+    {
+      "id": "single-158",
+      "request": "Can I create a call reminder that will repeat every day at a specific time?",
+      "relevant": [
+        "clinq"
+      ],
+      "keywords": "call reminder repeat daily"
+    },
+    {
+      "id": "single-159",
+      "request": "Is there a specific tool or software that can help me efficiently prioritize my tasks and set deadlines for each individual task in order to effectively manage my workload?",
+      "relevant": [
+        "dart"
+      ],
+      "keywords": "task prioritization deadline management workload"
+    },
+    {
+      "id": "single-160",
+      "request": "I can't decide whether to get a Tesla Model 3 or a Chevy Bolt. Could you help me compare them?",
+      "relevant": [
+        "ProductComparison"
+      ],
+      "keywords": "car comparison Tesla Model 3 Chevy Bolt"
+    },
+    {
+      "id": "single-161",
+      "request": "I want my website to be accessible to all users, including those with disabilities, by ensuring it complies with accessibility standards such as Section 508 and the Web Content Accessibility Guidelines (WCAG).",
+      "relevant": [
+        "website_performance_insights"
+      ],
+      "keywords": "web accessibility compliance WCAG Section 508"
+    },
+    {
+      "id": "single-162",
+      "request": "What are the latest advancements in the field of artificial intelligence?",
+      "relevant": [
+        "metaphor_search_api"
+      ],
+      "keywords": "artificial intelligence advancements latest news"
+    },
+    {
+      "id": "single-163",
+      "request": "How do I ask for directions in Italian?",
+      "relevant": [
+        "speak"
+      ],
+      "keywords": "Italian directions phrases language"
+    },
+    {
+      "id": "single-164",
+      "request": "I'm traveling to Bali and would like help with finding the best accommodations, recommendations for popular attractions and activities, as well as tips on local customs and traditions.",
+      "relevant": [
+        "TripAdviceTool"
+      ],
+      "keywords": "Bali accommodations hotels"
+    },
+    {
+      "id": "single-165",
+      "request": "This website has way too much text, can you calculate how many characters there are?",
+      "relevant": [
+        "word_counter"
+      ],
+      "keywords": "character count text analyzer"
+    },
+    {
+      "id": "single-166",
+      "request": "I'm an investor interested in analyzing a specific company's financial performance and I am looking for detailed and up-to-date financial information about that company in order to make informed investment decisions.",
+      "relevant": [
+        "clearbit_integration"
+      ],
+      "keywords": "financial data company analysis stock information"
+    },
+    {
+      "id": "single-167",
+      "request": "I have this amazing picture of a sunset over the ocean that I want to turn into a t-shirt design. Can you help me with that?",
+      "relevant": [
+        "Bohita"
+      ],
+      "keywords": "t-shirt design image conversion"
+    },
+    {
+      "id": "single-168",
+      "request": "Can you please provide me with a list of family-friendly shows that are currently running on Broadway, as I am specifically looking for recommendations in this category?",
+      "relevant": [
+        "Broadway"
+      ],
+      "keywords": "Broadway shows family-friendly currently running"
+    },
+    {
+      "id": "single-169",
+      "request": "Can you explain the concept of \"hygge\" in Danish?",
+      "relevant": [
+        "speak"
+      ],
+      "keywords": "hygge Danish concept explanation"
+    },
+    {
+      "id": "single-170",
+      "request": "I can't believe the referee's decision! I want to know more about the referee in today's match and their previous performances.",
+      "relevant": [
+        "keyplays_football"
+      ],
+      "keywords": "referee match performance statistics"
+    },
+    {
+      "id": "single-171",
+      "request": "\"I'm receiving a letter from my French pen pal but I don't understand what it says. Can you translate it for me?\"",
+      "relevant": [
+        "MixerBox_Translate_AI_language_tutor"
+      ],
+      "keywords": "translation French English"
+    },
+    {
+      "id": "single-172",
+      "request": "\"Can you tell me the top ten selling books from the Chicago Branch for last month?\"",
+      "relevant": [
+        "AI2sql"
+      ],
+      "keywords": "top selling books Chicago branch"
+    },
+    {
+      "id": "single-173",
+      "request": "I urgently require a detailed transcript of the planning session that took place last Tuesday with the entire product team.",
+      "relevant": [
+        "buildbetter"
+      ],
+      "keywords": "transcript meeting recording"
+    },
+    {
+      "id": "single-174",
+      "request": "Which design agency in Los Angeles, specializing in logo design, has the highest ratings from users and clients?",
+      "relevant": [
+        "find_agency"
+      ],
+      "keywords": "design agency Los Angeles logo design ratings reviews"
+    },
+    {
+      "id": "single-175",
+      "request": "I want to explore wildlife in Africa, do you have any suggestions for safari tours?",
+      "relevant": [
+        "TripAdviceTool"
+      ],
+      "keywords": "safari tours Africa wildlife"
+    },
+    {
+      "id": "single-176",
+      "request": "I'm struggling to find the right hashtags for my travel photo. Could you recommend some based on this picture?",
+      "relevant": [
+        "social_media_muse"
+      ],
+      "keywords": "hashtag recommendation travel photo"
+    },
+    {
+      "id": "single-177",
+      "request": "Please check if there are any ongoing road construction or maintenance activities, as well as the presence of any speed monitoring devices such as speed cameras, specifically on Cross Road, for today.",
+      "relevant": [
+        "SASpeedCameras"
+      ],
+      "keywords": "road construction maintenance activities"
+    },
+    {
+      "id": "single-178",
+      "request": "How can I improve my return on investment (ROI) for my Google Shopping campaigns? Any advice?",
+      "relevant": [
+        "Google_Ads_Shopping_Microsoft_Ads_pay_per_click"
+      ],
+      "keywords": "Google Shopping ROI optimization"
+    },
+    {
+      "id": "single-179",
+      "request": "I want to raise awareness about deforestation. Could you create a short video from public domain footage to illustrate the problem?",
+      "relevant": [
+        "Visla"
+      ],
+      "keywords": "video creation public domain footage deforestation"
+    },
+    {
+      "id": "single-180",
+      "request": "What are the trending topics on Twitter in Japan?",
+      "relevant": [
+        "Now"
+      ],
+      "keywords": "Twitter trending topics Japan"
+    },
+    {
+      "id": "single-181",
+      "request": "I want to buy a new laptop. Can you give me some options with good reviews?",
+      "relevant": [
+        "metaphor_search_api"
+      ],
+      "keywords": "laptop recommendations reviews"
+    },
+    {
+      "id": "single-182",
+      "request": "Can you tell me if there are any mobile speed cameras or roadworks on Main Street in South Australia today?",
+      "relevant": [
+        "SASpeedCameras"
+      ],
+      "keywords": "mobile speed cameras roadworks South Australia"
+    },
+    {
+      "id": "single-183",
+      "request": "I need to find a post about cooking recipes. Can you search for it on my self-hosted WordPress site?",
+      "relevant": [
+        "wpinteract"
+      ],
+      "keywords": "WordPress search posts"
+    },
+    {
+      "id": "single-184",
+      "request": "Can you thoroughly analyze the Search Engine Results Page (SERP) by specifically examining the ranking and performance of my website for a particular keyword? Furthermore, could you provide detailed recommendations and insights on how I can enhance my content to achieve a higher ranking on the SERP?",
+      "relevant": [
+        "bramework"
+      ],
+      "keywords": "SERP analysis ranking performance keyword"
+    },
+    {
+      "id": "single-185",
+      "request": "Get me the METAR report, TAF forecast, and NOTAMs for KMIA airport.",
+      "relevant": [
+        "C3_Glide"
+      ],
+      "keywords": "METAR airport weather report"
+    },
+    {
+      "id": "single-186",
+      "request": "I'm curious about the story behind this picture. Can you provide some insights? [Image URL attached]",
+      "relevant": [
+        "SceneXplain"
+      ],
+      "keywords": "image analysis description"
+    },
+    {
+      "id": "single-187",
+      "request": "I need to calculate the payoff term for my credit card. Can you help me with that?",
+      "relevant": [
+        "CreditYelp"
+      ],
+      "keywords": "credit card payoff calculator"
+    },
+    {
+      "id": "single-188",
+      "request": "Hey Chatbot! I want to know how much interest I would save if I increase my monthly credit card payments. Can you help me with the calculations?",
+      "relevant": [
+        "CreditYelp"
+      ],
+      "keywords": "credit card interest calculator payment savings"
+    },
+    {
+      "id": "single-189",
+      "request": "Search a gif of a walking panda.",
+      "relevant": [
+        "GifApi"
+      ],
+      "keywords": "gif walking panda"
+    },
+    {
+      "id": "single-190",
+      "request": "Can you summarize and provide an in-depth critique of Nietzsche's philosophical teachings present in his book \"Thus Spoke Zarathustra\"?",
+      "relevant": [
+        "MyWritingCompanion"
+      ],
+      "keywords": "Nietzsche Thus Spoke Zarathustra philosophy analysis"
+    },
+    {
+      "id": "single-191",
+      "request": "How can I start exercising regularly and develop a sustainable fitness routine that is enjoyable and fits into my busy schedule while maximizing the effectiveness of my workouts to achieve my desired fitness goals?",
+      "relevant": [
+        "mini_habits"
+      ],
+      "keywords": "fitness routine exercise planning workout"
+    },
+    {
+      "id": "single-192",
+      "request": "Greetings Chatbot, as a history enthusiast, I'm curious to know more about the causes of World War II. Can you provide me with a detailed explanation?",
+      "relevant": [
+        "DataRetrievalTool"
+      ],
+      "keywords": "World War II history causes"
+    },
+    {
+      "id": "single-193",
+      "request": "Can you conduct a comprehensive performance analysis of my website, examining various key metrics such as load time, page speed, user engagement, and conversion rates, and provide me with a detailed report on the findings?",
+      "relevant": [
+        "website_performance_insights"
+      ],
+      "keywords": "website performance analysis metrics load time page speed"
+    },
+    {
+      "id": "single-194",
+      "request": "What type of on-page optimization is best for my website to improve its SEO ranking?",
+      "relevant": [
+        "seoanalysis"
+      ],
+      "keywords": "SEO on-page optimization"
+    },
+    {
+      "id": "single-195",
+      "request": "I want to add a visually appealing and customizable countdown timer that will prominently display the remaining time until a specific event or offer on my landing page, grabbing the attention of visitors and creating a sense of urgency to take action.",
+      "relevant": [
+        "deployscript"
+      ],
+      "keywords": "countdown timer landing page"
+    },
+    {
+      "id": "single-196",
+      "request": "Do you have any cooking tips I can use?",
+      "relevant": [
+        "recipe_retrieval"
+      ],
+      "keywords": "cooking tips recipes"
+    },
+    {
+      "id": "single-197",
+      "request": "Do you know of any online or mobile tools, preferably free or with a trial period, that have features specifically designed for efficient task management and organization, such as creating to-do lists, setting reminders, assigning priorities, tracking progress, and generating reports or visualizations?",
+      "relevant": [
+        "NotesTool"
+      ],
+      "keywords": "task management to-do list reminders priorities tracking"
+    },
+    {
+      "id": "single-198",
+      "request": "I want to roll a 20-sided dice, also known as a d20, specifically to determine the outcome of finding any hidden objects in my surroundings.",
+      "relevant": [
+        "diceroller"
+      ],
+      "keywords": "dice roller d20"
+    },
+    {
+      "id": "single-199",
+      "request": "I'm thinking about attending a conference in the US. Can you provide me with the live updated health risk and safety guidance for conferences and large gatherings, including COVID-19, Flu, RSV, and other illnesses?",
+      "relevant": [
+        "hubbubworld_hubbub_1"
+      ],
+      "keywords": "health risk safety guidance conferences large gatherings COVID-19 flu RSV"
+    },
+    {
+      "id": "single-200",
+      "request": "Hello! I had an important sales call with a potential client this morning. Can you provide me with a summary of that conversation?",
+      "relevant": [
+        "buildbetter"
+      ],
+      "keywords": "sales call recording transcript summary"
+    },
+    {
+      "id": "single-201",
+      "request": "Could you help me create a persuasive ad for my used car dealership in Hobart?",
+      "relevant": [
+        "CarYardBard"
+      ],
+      "keywords": "ad creation advertising copywriting"
+    },
+    {
+      "id": "single-202",
+      "request": "What are the latest fashion trends right now?",
+      "relevant": [
+        "Man_of_Many"
+      ],
+      "keywords": "fashion trends latest"
+    },
+    {
+      "id": "single-203",
+      "request": "I've been going through a rough patch lately. Can you provide some positive insights with astrological predictions for my sun sign today?",
+      "relevant": [
+        "StrologyTool"
+      ],
+      "keywords": "astrology horoscope predictions sun sign"
+    },
+    {
+      "id": "single-204",
+      "request": "My competitor's website is always ranking higher than mine. Is there any way to analyze their domain visibility?",
+      "relevant": [
+        "SEOTool"
+      ],
+      "keywords": "domain visibility analysis competitor SEO"
+    },
+    {
+      "id": "single-205",
+      "request": "Could you please provide me with recommendations for local Sake brands from a specific Japanese prefecture that I should try?",
+      "relevant": [
+        "sakenowa"
+      ],
+      "keywords": "sake brands Japanese prefecture recommendations"
+    },
+    {
+      "id": "single-206",
+      "request": "I want to surprise my partner with a romantic dinner tonight. Any restaurants with a nice ambiance?",
+      "relevant": [
+        "local"
+      ],
+      "keywords": "restaurants romantic dinner ambiance"
+    },
+    {
+      "id": "single-207",
+      "request": "I need to draft an urgent email. How can I do that?",
+      "relevant": [
+        "EmailByNylas"
+      ],
+      "keywords": "email draft compose"
+    },
+    {
+      "id": "single-208",
+      "request": "I'm sick of dealing with complicated tools for creating forms, surveys, quizzes, or questionnaires. Can you suggest something better?",
+      "relevant": [
+        "form"
+      ],
+      "keywords": "forms surveys quizzes questionnaires simple easy"
+    },
+    {
+      "id": "single-209",
+      "request": "I need a daily dose of motivation. Can you schedule motivational quotes to be sent to me via SMS?",
+      "relevant": [
+        "Glowing"
+      ],
+      "keywords": "SMS motivational quotes scheduling"
+    },
+    {
+      "id": "single-210",
+      "request": "I want to watch a popular TV series.",
+      "relevant": [
+        "MediaTool"
+      ],
+      "keywords": "popular TV series watch streaming"
+    },
+    {
+      "id": "single-211",
+      "request": "I'm in Japan and I want to find a restaurant with available reservations.",
+      "relevant": [
+        "RestaurantBookingTool"
+      ],
+      "keywords": "restaurant reservations Japan"
+    },
+    {
+      "id": "single-212",
+      "request": "I have a photo of a whiteboard with important notes, but it's too hard to read. Can you help me extract the text from the image?",
+      "relevant": [
+        "ChatOCR"
+      ],
+      "keywords": "extract text from image OCR"
+    },
+    {
+      "id": "single-213",
+      "request": "Could you please connect to my AWS instance and check the disk space utilization?",
+      "relevant": [
+        "AutoInfra1"
+      ],
+      "keywords": "AWS EC2 instance disk space utilization"
+    },
+    {
+      "id": "single-214",
+      "request": "I want to create a task in Todoist whenever I receive an email. Can you help me with that?",
+      "relevant": [
+        "Zapier"
+      ],
+      "keywords": "Todoist email integration automation"
+    },
+    {
+      "id": "single-215",
+      "request": "I'm interested in attending a film festival. Can you provide information on upcoming events?",
+      "relevant": [
+        "smarttsicketsai"
+      ],
+      "keywords": "film festival upcoming events"
+    },
+    {
+      "id": "single-216",
+      "request": "Argh! I have this important document that's in a scanned image format. How can I extract the text effectively without spending hours on it?",
+      "relevant": [
+        "ChatOCR"
+      ],
+      "keywords": "OCR text extraction from images"
+    },
+    {
+      "id": "single-217",
+      "request": "I need to know the time right now in Tokyo, Japan.",
+      "relevant": [
+        "timemachine"
+      ],
+      "keywords": "current time timezone"
+    },
+    {
+      "id": "single-218",
+      "request": "What are some good support champions for beginners?",
+      "relevant": [
+        "champdex"
+      ],
+      "keywords": "support champions beginners guide"
+    },
+    {
+      "id": "single-219",
+      "request": "I'm extremely frustrated with the current animal transporter I hired. How can I find a trustworthy transporter to replace them?",
+      "relevant": [
+        "haulingbuddies"
+      ],
+      "keywords": "animal transporter service"
+    },
+    {
+      "id": "single-220",
+      "request": "How can I learn design quickly?",
+      "relevant": [
+        "search"
+      ],
+      "keywords": "design learning courses tutorials"
+    },
+    {
+      "id": "single-221",
+      "request": "Can you compare the reviews of different SSDs and tell me which one is the best?",
+      "relevant": [
+        "Review"
+      ],
+      "keywords": "SSD reviews comparison"
+    },
+    {
+      "id": "single-222",
+      "request": "What are the most recent research documents related to the UK equities market for Technology companies?",
+      "relevant": [
+        "ph_ai_news_query"
+      ],
+      "keywords": "UK equities market technology companies research documents"
+    },
+    {
+      "id": "single-223",
+      "request": "Can you help me create a new task for the upcoming project?",
+      "relevant": [
+        "dart"
+      ],
+      "keywords": "create task project"
+    },
+    {
+      "id": "single-224",
+      "request": "Could you fetch a picture of Facebook's homepage back when it launched in 2004?",
+      "relevant": [
+        "WebRewind"
+      ],
+      "keywords": "web archive wayback machine historical screenshots"
+    },
+    {
+      "id": "single-225",
+      "request": "Could you please provide me with the current daily petrol price for Western Australia, specifically in terms of regular unleaded fuel at petrol stations across the region?",
+      "relevant": [
+        "AusPetrolPrices"
+      ],
+      "keywords": "petrol price Western Australia unleaded fuel"
+    },
+    {
+      "id": "single-226",
+      "request": "I want to see abstract paintings from the 20th century. Can you find any in the museum's database?",
+      "relevant": [
+        "ArtCollection"
+      ],
+      "keywords": "museum database paintings search"
+    },
+    {
+      "id": "single-227",
+      "request": "I'm trying to program a 2D simulation of an ecosystem with CreatiCode Scratch extensions. But it's not working as expected. Can you demonstrate it using an image?",
+      "relevant": [
+        "Creaticode_Extension_of_MIT_Scratch"
+      ],
+      "keywords": "CreatiCode Scratch ecosystem simulation"
+    },
+    {
+      "id": "single-228",
+      "request": "I need a QR code for a product I'm selling. How can I generate it quickly?",
+      "relevant": [
+        "qreator"
+      ],
+      "keywords": "QR code generator"
+    },
+    {
+      "id": "single-229",
+      "request": "Is there a tool to help me export my conversation?",
+      "relevant": [
+        "exportchat"
+      ],
+      "keywords": "export conversation"
+    },
+    {
+      "id": "single-230",
+      "request": "I am searching for a Ford Mustang in good condition under 15k. Can you help me out?",
+      "relevant": [
+        "copilot"
+      ],
+      "keywords": "Ford Mustang car search"
+    },
+    {
+      "id": "single-231",
+      "request": "Can you tell me what my horoscope says for today? I'm really curious to know!",
+      "relevant": [
+        "StrologyTool"
+      ],
+      "keywords": "horoscope today"
+    },
+    {
+      "id": "single-232",
+      "request": "I am searching for a highly skilled engineer who specializes in biomedical engineering to fulfill my requirement of hiring one.",
+      "relevant": [
+        "TalentOrg"
+      ],
+      "keywords": "biomedical engineer hiring recruitment"
+    },
+    {
+      "id": "single-233",
+      "request": "This is unacceptable! I demand immediate access to information about a US-based non-profit. Give me detailed data on its mission, key people, governance structure, ratings, and financial data immediately!",
+      "relevant": [
+        "CharityTool"
+      ],
+      "keywords": "non-profit organization information data"
+    },
+    {
+      "id": "single-234",
+      "request": "Are there any shows similar to 'Game of Thrones' that you can suggest?",
+      "relevant": [
+        "MediaTool"
+      ],
+      "keywords": "shows similar to Game of Thrones recommendations"
+    },
+    {
+      "id": "single-235",
+      "request": "Can you provide a detailed explanation about how the 'display' field works in this chess plugin, including its functionality and purpose within the plugin's interface?",
+      "relevant": [
+        "Chess"
+      ],
+      "keywords": "chess plugin display field"
+    },
+    {
+      "id": "single-236",
+      "request": "Do you have any information on COVID-19 safety guidance for US locations?",
+      "relevant": [
+        "hubbubworld_hubbub_1"
+      ],
+      "keywords": "COVID-19 safety guidance US"
+    },
+    {
+      "id": "single-237",
+      "request": "I need a recommendation for a good pair of wireless earphones on Amazon.",
+      "relevant": [
+        "Review"
+      ],
+      "keywords": "Amazon wireless earphones recommendations"
+    },
+    {
+      "id": "single-238",
+      "request": "I'm having trouble finding a specific file named \"document.pdf\" on my local server that I urgently need for an upcoming presentation.",
+      "relevant": [
+        "SSH"
+      ],
+      "keywords": "file search local server"
+    },
+    {
+      "id": "single-239",
+      "request": "I'm curious about the PPC ads my competitor is using. Can you retrieve their ad history for me?",
+      "relevant": [
+        "competitorppcads"
+      ],
+      "keywords": "competitor PPC ads history"
+    },
+    {
+      "id": "single-240",
+      "request": "I'd like to edit the script of an existing webhook to update the response format and incorporate additional functionality based on specific user requests.",
+      "relevant": [
+        "webhooks"
+      ],
+      "keywords": "webhook script edit update"
+    },
+    {
+      "id": "single-241",
+      "request": "What is wrong with people?! I want to see the hottest discussions happening right now!",
+      "relevant": [
+        "Now"
+      ],
+      "keywords": "trending discussions hot topics"
+    },
+    {
+      "id": "single-242",
+      "request": "I love solving logical puzzles that require critical thinking and problem-solving skills. Can you provide me with a challenging puzzle that will truly test my abilities and keep me engaged?",
+      "relevant": [
+        "crafty_clues"
+      ],
+      "keywords": "logical puzzles brain teasers"
+    },
+    {
+      "id": "single-243",
+      "request": "What are some fun activities to do during the weekend that can be enjoyed both indoors and outdoors, suitable for all age groups, and won't require a large budget?",
+      "relevant": [
+        "word_sneak"
+      ],
+      "keywords": "weekend activities family fun budget-friendly"
+    },
+    {
+      "id": "single-244",
+      "request": "I can't believe I can't convert my ABC music notation to audio! This is ridiculous!",
+      "relevant": [
+        "abc_to_audio"
+      ],
+      "keywords": "ABC music notation audio conversion"
+    },
+    {
+      "id": "single-245",
+      "request": "Please parse the eligibility criteria for the clinical trial with the ID NCT05859269, which focuses on a specific medical study, and provide a comprehensive breakdown of the requirements in separate tables for both inclusion and exclusion criteria.",
+      "relevant": [
+        "CTCP"
+      ],
+      "keywords": "clinical trial NCT eligibility criteria parser"
+    },
+    {
+      "id": "single-246",
+      "request": "I want to leverage real-time live chat sessions, where my potential customers can engage with my sales representatives instantly on my website, to significantly enhance my sales conversion rates and drive more revenue.",
+      "relevant": [
+        "KalendarAI"
+      ],
+      "keywords": "live chat sales conversion website"
+    },
+    {
+      "id": "single-247",
+      "request": "Are there any family-friendly shows on Broadway that you can recommend?",
+      "relevant": [
+        "Broadway"
+      ],
+      "keywords": "Broadway shows family-friendly recommendations"
+    },
+    {
+      "id": "single-248",
+      "request": "I'm planning a road trip with my Nissan Leaf, can you help me locate superchargers for non-Tesla vehicles along the East Coast of the United States?",
+      "relevant": [
+        "SuperchargeMyEV"
+      ],
+      "keywords": "EV charging stations superchargers East Coast"
+    },
+    {
+      "id": "single-249",
+      "request": "I want to know the plot and cast of a popular TV series, can you provide that information?",
+      "relevant": [
+        "what_to_watch"
+      ],
+      "keywords": "TV series plot cast information"
+    },
+    {
+      "id": "single-250",
+      "request": "Can I use Chatbot to create an SQL query?",
+      "relevant": [
+        "AI2sql"
+      ],
+      "keywords": "SQL query chatbot"
+    },
+    {
+      "id": "single-251",
+      "request": "I'm fascinated by planets outside our solar system. Can you display pictures of exoplanets?",
+      "relevant": [
+        "stellarexplorer"
+      ],
+      "keywords": "exoplanet pictures images"
+    },
+    {
+      "id": "single-252",
+      "request": "Are there any clinical trials for COVID-19 vaccines?",
+      "relevant": [
+        "clinical_trial_radar"
+      ],
+      "keywords": "clinical trials COVID-19 vaccines"
+    },
+    {
+      "id": "single-253",
+      "request": "Greetings! I'm interested in playing a logic-based game. Can you give me a sudoku puzzle to tackle?",
+      "relevant": [
+        "Sudoku"
+      ],
+      "keywords": "sudoku puzzle game"
+    },
+    {
+      "id": "single-254",
+      "request": "Can you show me the most recent Mars Rover photos?",
+      "relevant": [
+        "stellarexplorer"
+      ],
+      "keywords": "Mars Rover photos"
+    },
+    {
+      "id": "single-255",
+      "request": "I can never make the right decisions!",
+      "relevant": [
+        "decision_journal"
+      ],
+      "keywords": "decision making help advice"
+    },
+    {
+      "id": "single-256",
+      "request": "I really like a job post I stumbled upon. Would you help me craft an email showing my interest in the position?",
+      "relevant": [
+        "dover_outreach"
+      ],
+      "keywords": "email writing compose draft"
+    },
+    {
+      "id": "single-257",
+      "request": "I'm interested in attending a baseball game this weekend, specifically looking for information about the available seating options, ticket prices, and any promotional events happening during the game.",
+      "relevant": [
+        "smarttsicketsai"
+      ],
+      "keywords": "baseball game tickets seating prices"
+    },
+    {
+      "id": "single-258",
+      "request": "I'm feeling happy today, can you show me a cheerful gif?",
+      "relevant": [
+        "GifApi"
+      ],
+      "keywords": "cheerful happy gif"
+    },
+    {
+      "id": "single-259",
+      "request": "I need detailed and comprehensive information on the necessary steps, tools, and techniques required to effectively design a visually appealing and user-friendly website.",
+      "relevant": [
+        "universal"
+      ],
+      "keywords": "website design tools UI UX"
+    },
+    {
+      "id": "single-260",
+      "request": "Can you help me design a custom Enterprise Resource Planning (ERP) application specifically tailored to meet the specific needs and requirements of my manufacturing business, encompassing all the essential functionalities and modules critical for smooth operations and optimized efficiency?",
+      "relevant": [
+        "tailor_erp"
+      ],
+      "keywords": "ERP application design manufacturing"
+    },
+    {
+      "id": "single-261",
+      "request": "Is there an automated way to make a car sales ad?",
+      "relevant": [
+        "CarYardBard"
+      ],
+      "keywords": "car sales ad generator automated"
+    },
+    {
+      "id": "single-262",
+      "request": "Why is it so hard to find 3D assets for AIGC, give me something!",
+      "relevant": [
+        "assetOvi"
+      ],
+      "keywords": "3D assets AIGC AI generation"
+    },
+    {
+      "id": "single-263",
+      "request": "I want to improve my speaking skills for the IELTS test. Can you suggest some practice questions?",
+      "relevant": [
+        "Talkface_IELTS_Prep"
+      ],
+      "keywords": "IELTS speaking practice questions"
+    },
+    {
+      "id": "single-264",
+      "request": "I need a marketing agency in Chicago that can help with lead generation. Any suggestions?",
+      "relevant": [
+        "find_agency"
+      ],
+      "keywords": "marketing agency Chicago lead generation"
+    },
+    {
+      "id": "single-265",
+      "request": "Can you tell me about the interaction between Thoughtseize and Leyline of Sanctity?",
+      "relevant": [
+        "magi_codex"
+      ],
+      "keywords": "Magic the Gathering card Thoughtseize"
+    },
+    {
+      "id": "single-266",
+      "request": "I need assistance in tailoring my resume to a marketing role.",
+      "relevant": [
+        "ResumeTool"
+      ],
+      "keywords": "resume tailoring marketing"
+    },
+    {
+      "id": "single-267",
+      "request": "I need assistance for a webhook that would automatically post daily weather updates on my social media account.",
+      "relevant": [
+        "webhooks"
+      ],
+      "keywords": "webhook weather social media automation"
+    },
+    {
+      "id": "single-268",
+      "request": "I would like to play a game of chess against a highly skilled grandmaster who has achieved the highest level of expertise in the game.",
+      "relevant": [
+        "Chess"
+      ],
+      "keywords": "chess grandmaster game"
+    },
+    {
+      "id": "single-269",
+      "request": "Azure shows that there is high CPU usage on my server. Can you figure it out?",
+      "relevant": [
+        "AutoInfra1"
+      ],
+      "keywords": "Azure CPU usage monitoring diagnostics"
+    },
+    {
+      "id": "single-270",
+      "request": "I'm having trouble reading this PDF document. Can you help extract the text?",
+      "relevant": [
+        "universal"
+      ],
+      "keywords": "PDF text extraction"
+    },
+    {
+      "id": "single-271",
+      "request": "Can you suggest a high-quality and efficient plugin that specializes in generating photorealistic images of picturesque waterfalls that feature cascading water in lush green surroundings, capturing the beauty of nature in its full glory?",
+      "relevant": [
+        "photorealistic"
+      ],
+      "keywords": "photorealistic image generation waterfall nature"
+    },
+    {
+      "id": "single-272",
+      "request": "Can you kindly provide a detailed explanation of the key principles and techniques behind machine learning, using simple and easy-to-understand language that would enable a beginner to grasp the concept without any prior background knowledge or technical expertise?",
+      "relevant": [
+        "PolishTool"
+      ],
+      "keywords": "machine learning explanation tutorial"
+    },
+    {
+      "id": "single-273",
+      "request": "Is the car park near Block 111 Bishan Street 22 currently crowded? Would you mind checking and informing me if there are any available parking lots?",
+      "relevant": [
+        "hdbcarpark"
+      ],
+      "keywords": "car park parking availability Bishan"
+    },
+    {
+      "id": "single-274",
+      "request": "Can you find any high-resolution pictures of the Martian landscape captured by the Curiosity Rover during its exploration mission on Mars?",
+      "relevant": [
+        "NASATool"
+      ],
+      "keywords": "Curiosity Rover Mars landscape images pictures"
+    },
+    {
+      "id": "single-275",
+      "request": "Is it possible to know the types of PPC ads my competitor has been running lately? I want to see if they are targeting any specific keywords or demographics.",
+      "relevant": [
+        "competitorppcads"
+      ],
+      "keywords": "competitor PPC ads analysis keywords demographics"
+    },
+    {
+      "id": "single-276",
+      "request": "I'm facing issues while integrating our e-commerce platform with our ERP system. Can you assist in troubleshooting and tuning our application?",
+      "relevant": [
+        "tailor_erp"
+      ],
+      "keywords": "e-commerce ERP integration troubleshooting"
+    },
+    {
+      "id": "single-277",
+      "request": "I have an idea for a web app, but I don't know how to code. Can you help me bring it to life?",
+      "relevant": [
+        "deployscript"
+      ],
+      "keywords": "web app builder no code"
+    },
+    {
+      "id": "single-278",
+      "request": "I think I'm an introvert, but I want to see if an online test can confirm this. Can we go through an MBTI test? ",
+      "relevant": [
+        "mbti"
+      ],
+      "keywords": "MBTI personality test"
+    },
+    {
+      "id": "single-279",
+      "request": "Can you please give me the updated surf report specifically for Bells Beach, a popular surfing spot located in Australia renowned for its world-class waves and international surfing competitions?",
+      "relevant": [
+        "AusSurfReport"
+      ],
+      "keywords": "surf report Bells Beach Australia"
+    },
+    {
+      "id": "single-280",
+      "request": "I'm trying to understand the setting of this photograph and would like more details about the location, time of day, and any significant elements or objects present in the scene.",
+      "relevant": [
+        "SceneXplain"
+      ],
+      "keywords": "image analysis photograph scene description"
+    },
+    {
+      "id": "single-281",
+      "request": "I can never keep my indoor plants alive, can you give me any tips to improve their health?",
+      "relevant": [
+        "IndoorPlants"
+      ],
+      "keywords": "indoor plant care tips"
+    },
+    {
+      "id": "single-282",
+      "request": "Give me a meme that describes my Monday mornings.",
+      "relevant": [
+        "MemeTool"
+      ],
+      "keywords": "meme generator create"
+    },
+    {
+      "id": "single-283",
+      "request": "How can I create effective text ads for Google Ads?",
+      "relevant": [
+        "RoboAd"
+      ],
+      "keywords": "Google Ads text ads creation"
+    },
+    {
+      "id": "single-284",
+      "request": "Could you kindly assist me in finding a highly experienced and reliable attorney in Fukuoka, Japan, who specializes in contract law and has a successful track record in handling contract disputes for clients?",
+      "relevant": [
+        "LawTool"
+      ],
+      "keywords": "attorney lawyer Fukuoka Japan contract law"
+    },
+    {
+      "id": "single-285",
+      "request": "We're organizing a virtual event. Can you create a promotional video with an animated spokesperson to encourage registrations?",
+      "relevant": [
+        "heygen"
+      ],
+      "keywords": "promotional video animated spokesperson"
+    },
+    {
+      "id": "single-286",
+      "request": "Can you recommend a platform to hire remote writers who can help with content creation?",
+      "relevant": [
+        "MyWritingCompanion"
+      ],
+      "keywords": "hire remote writers content creation platform"
+    },
+    {
+      "id": "single-287",
+      "request": "Please provide the current location of the International Space Station.",
+      "relevant": [
+        "locator"
+      ],
+      "keywords": "International Space Station location tracking"
+    },
+    {
+      "id": "single-288",
+      "request": "I'm looking for comprehensive and detailed information regarding the historical stock trading patterns, including buying and selling activities, of individual members of Congress specifically, to gain a better understanding of their financial investments and potential conflicts of interest.",
+      "relevant": [
+        "QuiverQuantitative"
+      ],
+      "keywords": "congressional stock trading patterns members Congress"
+    },
+    {
+      "id": "single-289",
+      "request": "I'm considering buying an electric car but unsure about the infrastructure and long-term feasibility. What are the different viewpoints on this matter?",
+      "relevant": [
+        "ai_council"
+      ],
+      "keywords": "electric car infrastructure feasibility analysis"
+    },
+    {
+      "id": "single-290",
+      "request": "I can't believe how polluted this city is! Check the air quality forecast for zip code 12345.",
+      "relevant": [
+        "airqualityforeast"
+      ],
+      "keywords": "air quality forecast"
+    },
+    {
+      "id": "single-291",
+      "request": "I need a plugin that can help me easily create beautiful stories with illustrations.",
+      "relevant": [
+        "storybird_stories"
+      ],
+      "keywords": "story creation illustrations plugin"
+    },
+    {
+      "id": "single-292",
+      "request": "Is it possible to create a form with AI-powered features on Yay! Forms?",
+      "relevant": [
+        "form"
+      ],
+      "keywords": "Yay Forms AI-powered features"
+    },
+    {
+      "id": "single-293",
+      "request": "Is there a way to record this conversation?",
+      "relevant": [
+        "reflect_notes"
+      ],
+      "keywords": "record conversation transcript"
+    },
+    {
+      "id": "single-294",
+      "request": "Hello Chatbot! I've always wanted to try creating a crossword puzzle. Can you guide me in using your tool to make one with words and hints?",
+      "relevant": [
+        "Puzzle_Constructor"
+      ],
+      "keywords": "crossword puzzle creator"
+    },
+    {
+      "id": "single-295",
+      "request": "How do different cultures define success? ",
+      "relevant": [
+        "ai_council"
+      ],
+      "keywords": "cultural definitions of success"
+    },
+    {
+      "id": "single-296",
+      "request": "I'm not sure if the scoring for my cards in cribbage is correct, as I have been playing with different players who may have different scoring rules, and there is also some confusion regarding the point values assigned to specific card combinations.",
+      "relevant": [
+        "CribbageScorer"
+      ],
+      "keywords": "cribbage scoring rules"
+    },
+    {
+      "id": "single-297",
+      "request": "Hey Chatbot, I need a funny meme about cats with the caption \"When you finally get a cat and it turns out to be evil\". ",
+      "relevant": [
+        "MemeTool"
+      ],
+      "keywords": "meme generator create funny cat"
+    },
+    {
+      "id": "single-298",
+      "request": "As a history enthusiast with a specific interest in the September 11 attacks in 2001, my request is to access and observe the visual appearance and content of CNN's website precisely during the time period when the attacks took place.",
+      "relevant": [
+        "WebRewind"
+      ],
+      "keywords": "web archive historical snapshots wayback machine"
+    },
+    {
+      "id": "single-299",
+      "request": "I'm preparing for my IELTS speaking test. Could you suggest some practice questions?",
+      "relevant": [
+        "Talkface_IELTS_Prep"
+      ],
+      "keywords": "IELTS speaking practice questions"
+    },
+    {
+      "id": "single-300",
+      "request": "Cloudflare's systems diligently monitor and analyze a diverse range of Internet traffic, encompassing web browsing activities, application data transfers, DNS queries, as well as incoming and outgoing application programming interface (API) requests.",
+      "relevant": [
+        "cloudflare_radar"
+      ],
+      "keywords": "Cloudflare traffic monitoring analysis"
+    },
+    {
+      "id": "single-301",
+      "request": "Is there a way to earn money by sharing links to popular online services?",
+      "relevant": [
+        "ad4mat"
+      ],
+      "keywords": "affiliate marketing referral programs earn money sharing links"
+    },
+    {
+      "id": "single-302",
+      "request": "Could you please score my cribbage hand and let me know the total points?",
+      "relevant": [
+        "CribbageScorer"
+      ],
+      "keywords": "cribbage hand score"
+    },
+    {
+      "id": "single-303",
+      "request": "Users frequently request detailed information on the latest top trends in web traffic, specifically seeking insights based on Cloudflare Radar's extensive and reliable data.",
+      "relevant": [
+        "cloudflare_radar"
+      ],
+      "keywords": "Cloudflare Radar web traffic trends"
+    },
+    {
+      "id": "single-304",
+      "request": "I need to find a software package for graphic design, can you help?",
+      "relevant": [
+        "total_query_meta_search_engine"
+      ],
+      "keywords": "graphic design software"
+    },
+    {
+      "id": "single-305",
+      "request": "I'm currently seeking a variety of interactive and stimulating activities that are specifically tailored to effectively teach and introduce basic geometric shapes to my curious 2-year-old child.",
+      "relevant": [
+        "ABCmouse"
+      ],
+      "keywords": "toddler geometric shapes learning activities"
+    },
+    {
+      "id": "single-306",
+      "request": "What happens if I run out of virtual currency?",
+      "relevant": [
+        "Algorithma"
+      ],
+      "keywords": "virtual currency"
+    },
+    {
+      "id": "single-307",
+      "request": "I'm looking for a restaurant in Japan that I can make a reservation at, preferably for dinner tonight, with a variety of vegetarian options on their menu.",
+      "relevant": [
+        "RestaurantBookingTool"
+      ],
+      "keywords": "restaurant reservation Japan dinner vegetarian"
+    },
+    {
+      "id": "single-308",
+      "request": "How can I generate a QR code for a specific text message?",
+      "relevant": [
+        "qreator"
+      ],
+      "keywords": "QR code generator"
+    },
+    {
+      "id": "single-309",
+      "request": "Hello! I'd like to explore the possibility of using generative AI to come up with text ads for my online store.",
+      "relevant": [
+        "RoboAd"
+      ],
+      "keywords": "generative AI text ads copywriting"
+    },
+    {
+      "id": "single-310",
+      "request": "How can I transform my text into an ASCII font?",
+      "relevant": [
+        "Figlet"
+      ],
+      "keywords": "ASCII font text transform"
+    },
+    {
+      "id": "single-311",
+      "request": "Provide a hadith about the blessings of good manners.",
+      "relevant": [
+        "hadith"
+      ],
+      "keywords": "hadith good manners blessings"
+    },
+    {
+      "id": "single-312",
+      "request": "Can we travel back to the Renaissance period? I'd like to meet some famous artists and intellectuals of that time.",
+      "relevant": [
+        "timeport"
+      ],
+      "keywords": "time travel Renaissance period"
+    },
+    {
+      "id": "single-313",
+      "request": "Can you check if the website I'm about to visit is safe and secure?",
+      "relevant": [
+        "hackit_web_scanner"
+      ],
+      "keywords": "website safety security check"
+    },
+    {
+      "id": "single-314",
+      "request": "I need detailed specifications, features, and prices of the latest iPhone models. Can you please find this information for me from Apple's official website?",
+      "relevant": [
+        "web_requests"
+      ],
+      "keywords": "iPhone specifications features prices Apple"
+    },
+    {
+      "id": "single-315",
+      "request": "I want to focus on building strength in my upper body. Can you provide a workout plan that targets my arms, shoulders, and chest?",
+      "relevant": [
+        "Planfit"
+      ],
+      "keywords": "upper body strength workout plan arms shoulders chest"
+    },
+    {
+      "id": "single-316",
+      "request": "I like watching historical dramas. Can you recommend some current ones for me to watch?",
+      "relevant": [
+        "what_to_watch"
+      ],
+      "keywords": "historical drama recommendations current shows"
+    },
+    {
+      "id": "single-317",
+      "request": "Please fetch and display the posts with the highest user ratings from my self-hosted WordPress site.",
+      "relevant": [
+        "wpinteract"
+      ],
+      "keywords": "WordPress fetch posts ratings"
+    },
+    {
+      "id": "single-318",
+      "request": "I'm in the mood for a game of Tic Tac Toe on a 6x6 board.",
+      "relevant": [
+        "TicTacToe"
+      ],
+      "keywords": "Tic Tac Toe game"
+    },
+    {
+      "id": "single-319",
+      "request": "Can we play a game of Tic Tac Toe on a 5x5 board?",
+      "relevant": [
+        "TicTacToe"
+      ],
+      "keywords": "tic tac toe game"
+    },
+    {
+      "id": "single-320",
+      "request": "Are there any discounts, promotions, or special offers currently being provided by luxury car dealerships, such as reduced prices, exclusive financing options, additional benefits, or limited-time deals on specific models?",
+      "relevant": [
+        "copilot"
+      ],
+      "keywords": "luxury car dealership discounts promotions special offers"
+    },
+    {
+      "id": "single-321",
+      "request": "I need assistance finding a freelance engineer with a background in chemical engineering. Can you assist me in finding potential candidates?",
+      "relevant": [
+        "TalentOrg"
+      ],
+      "keywords": "freelance engineer chemical engineering candidates"
+    },
+    {
+      "id": "single-322",
+      "request": "Could you present a QR code for my shopping cart so I can easily scan and view its contents?",
+      "relevant": [
+        "ShoppingAssistant"
+      ],
+      "keywords": "QR code generator"
+    },
+    {
+      "id": "single-323",
+      "request": "Can you help me find the nearest gym that's open 24 hours?",
+      "relevant": [
+        "local"
+      ],
+      "keywords": "24 hour gym nearest location"
+    },
+    {
+      "id": "single-324",
+      "request": "Hey Chatbot, I heard about this affiliate marketing thing. Is there an API available that allows me to create trackable links and earn money through referring people to online stores?",
+      "relevant": [
+        "ad4mat"
+      ],
+      "keywords": "affiliate marketing API trackable links"
+    },
+    {
+      "id": "single-325",
+      "request": "Hey there! I'm working on improving my website's search engine rankings. Can you recommend any related keywords to enhance my content optimization?",
+      "relevant": [
+        "keywordexplorer"
+      ],
+      "keywords": "keyword research SEO recommendations"
+    },
+    {
+      "id": "single-326",
+      "request": "Can you give me a Sudoku puzzle?",
+      "relevant": [
+        "Sudoku"
+      ],
+      "keywords": "Sudoku puzzle generator"
+    },
+    {
+      "id": "single-327",
+      "request": "Can you suggest some educational activities for my 4-year-old daughter? ",
+      "relevant": [
+        "ABCmouse"
+      ],
+      "keywords": "educational activities for preschoolers toddlers"
+    },
+    {
+      "id": "single-328",
+      "request": "Can you tell me what it was like during the time of the American Revolution? I want to understand the atmosphere and the historical events.",
+      "relevant": [
+        "timeport"
+      ],
+      "keywords": "American Revolution history"
+    },
+    {
+      "id": "single-329",
+      "request": "Can you recommend high-quality 3D assets for a game I'm developing?",
+      "relevant": [
+        "assetOvi"
+      ],
+      "keywords": "3D assets game development"
+    },
+    {
+      "id": "single-330",
+      "request": "Could you calculate the sales tax for a $1,000 purchase in Washington, D.C.?",
+      "relevant": [
+        "Tax_Calculator"
+      ],
+      "keywords": "sales tax calculator"
+    },
+    {
+      "id": "single-331",
+      "request": "What did Winston Churchill say in his famous 'Fight on the beaches' speech?",
+      "relevant": [
+        "uk_politics"
+      ],
+      "keywords": "Winston Churchill Fight on the beaches speech"
+    },
+    {
+      "id": "single-332",
+      "request": "Please fetch all Notices to Airmen (NOTAMs) which are important visual or textual notifications provided to pilots and air traffic controllers regarding potential hazards or changes to HNL Airport.",
+      "relevant": [
+        "C3_Glide"
+      ],
+      "keywords": "NOTAM Notices to Airmen HNL airport"
+    },
+    {
+      "id": "single-333",
+      "request": "Please provide me with the following contact information of the last person I spoke to on CLINQ: their full name, phone number, email address, and any additional relevant information.",
+      "relevant": [
+        "clinq"
+      ],
+      "keywords": "CLINQ contact information last person spoke"
+    },
+    {
+      "id": "single-334",
+      "request": "I need creative and engaging ideas for relevant keywords to effectively optimize my social media posts and increase their visibility and engagement with my target audience.",
+      "relevant": [
+        "keywordexplorer"
+      ],
+      "keywords": "social media keywords optimization engagement"
+    },
+    {
+      "id": "single-335",
+      "request": "How much is tan(9.17π)?",
+      "relevant": [
+        "calculator"
+      ],
+      "keywords": "tangent trigonometric function calculator"
+    },
+    {
+      "id": "single-336",
+      "request": "Are there metro stations nearby Seoul National University and how can I get to central Seoul from there?",
+      "relevant": [
+        "korea_subway"
+      ],
+      "keywords": "Seoul National University metro stations nearby"
+    },
+    {
+      "id": "single-337",
+      "request": "Can you find the latest tweets about the new iPhone?",
+      "relevant": [
+        "socialsearch"
+      ],
+      "keywords": "Twitter tweets search"
+    },
+    {
+      "id": "single-338",
+      "request": "I have a long paragraph that I want to turn into a QR code. Can you make that happen?",
+      "relevant": [
+        "create_qr_code"
+      ],
+      "keywords": "QR code generator"
+    },
+    {
+      "id": "single-339",
+      "request": "I would like to catch some waves at Surfers Paradise, potentially seeking information on the best surfing spots, proper wave conditions, local surf schools or rentals, and any recommended safety precautions while surfing.",
+      "relevant": [
+        "AusSurfReport"
+      ],
+      "keywords": "Surfers Paradise surfing spots waves conditions"
+    },
+    {
+      "id": "single-340",
+      "request": "Can you help me create a professional resume for a customer service job?",
+      "relevant": [
+        "ResumeTool"
+      ],
+      "keywords": "resume builder customer service"
+    },
+    {
+      "id": "single-341",
+      "request": "I'm trying to make a game, and I need my sprite to shoot projectiles. How can I achieve that?",
+      "relevant": [
+        "Creaticode_Extension_of_MIT_Scratch"
+      ],
+      "keywords": "sprite projectile shooting game"
+    },
+    {
+      "id": "single-342",
+      "request": "Certainly! Could you please provide me with the current sales tax rate in Chicago, Illinois so that I can accurately calculate the sales tax for a $500 purchase?",
+      "relevant": [
+        "Tax_Calculator"
+      ],
+      "keywords": "sales tax rate Chicago Illinois"
+    },
+    {
+      "id": "single-343",
+      "request": "I can't find any information on the performance of UK equities in the technology sector in 2020. Can you help me with that?",
+      "relevant": [
+        "ph_ai_news_query"
+      ],
+      "keywords": "UK equities technology sector performance 2020"
+    },
+    {
+      "id": "single-344",
+      "request": "What is the percentage of college graduates in Boston?",
+      "relevant": [
+        "blockatlas"
+      ],
+      "keywords": "college graduates percentage Boston statistics"
+    },
+    {
+      "id": "single-345",
+      "request": "I need to transport my pet across states, can you provide me with a list of reputable animal transporters?",
+      "relevant": [
+        "haulingbuddies"
+      ],
+      "keywords": "animal transporters pet transport services"
+    },
+    {
+      "id": "single-346",
+      "request": "Which teams played on 2022-10-15? ",
+      "relevant": [
+        "Agones"
+      ],
+      "keywords": "sports games teams date 2022-10-15"
+    },
+    {
+      "id": "single-347",
+      "request": "I need a word cloud image for my presentation, can you generate one based on the keywords I provide?",
+      "relevant": [
+        "WordCloud"
+      ],
+      "keywords": "word cloud generator"
+    },
+    {
+      "id": "single-348",
+      "request": "What are some affordable but thought-provoking gifts I could buy for my father?",
+      "relevant": [
+        "shimmer_daily"
+      ],
+      "keywords": "affordable thoughtful gifts for father"
+    },
+    {
+      "id": "single-349",
+      "request": "What is the best way to propagate plants at home?",
+      "relevant": [
+        "IndoorPlants"
+      ],
+      "keywords": "plant propagation methods home gardening"
+    },
+    {
+      "id": "single-350",
+      "request": "Are there currently any pending bills related to gun control in the United States Congress? If so, I would greatly appreciate receiving detailed updates on the status and progress of those bills.",
+      "relevant": [
+        "QuiverQuantitative"
+      ],
+      "keywords": "gun control bills Congress pending status"
+    },
+    {
+      "id": "single-351",
+      "request": "I'm located in Berlin, Germany right now and need to contact my team in Buenos Aires, Argentina. Can you tell me the current time there?",
+      "relevant": [
+        "timemachine"
+      ],
+      "keywords": "current time timezone"
+    },
+    {
+      "id": "single-352",
+      "request": "Please show me the daily picture from NASA's official website, which showcases stunning images captured by their satellites and telescopes, providing a glimpse into the vast expanse of the universe and offering valuable insights into celestial phenomena and space exploration.",
+      "relevant": [
+        "NASATool"
+      ],
+      "keywords": "NASA daily picture image astronomy"
+    },
+    {
+      "id": "single-353",
+      "request": "I would like to receive detailed information regarding the final score of the latest match between Manchester City and Chelsea.",
+      "relevant": [
+        "Agones"
+      ],
+      "keywords": "Manchester City Chelsea match score"
+    },
+    {
+      "id": "single-354",
+      "request": "How do I make a QR code for a website link?",
+      "relevant": [
+        "create_qr_code"
+      ],
+      "keywords": "QR code generator"
+    },
+    {
+      "id": "single-355",
+      "request": "I want to find step-by-step instructional videos that specifically detail the process of making homemade pasta, including various recipes, techniques, and tips.",
+      "relevant": [
+        "total_query_meta_search_engine"
+      ],
+      "keywords": "homemade pasta making instructional videos step-by-step"
+    },
+    {
+      "id": "single-356",
+      "request": "Can you show me how to visualize data using Python in a notebook?",
+      "relevant": [
+        "noteable"
+      ],
+      "keywords": "Python data visualization notebook"
+    },
+    {
+      "id": "single-357",
+      "request": "I need a realistic image of a vast desert landscape with sand dunes and a breathtaking sunset. Is there a plugin that specializes in desert scenery?",
+      "relevant": [
+        "photorealistic"
+      ],
+      "keywords": "desert landscape image generation"
+    },
+    {
+      "id": "single-358",
+      "request": "What's the air quality like in zip code xxxxx?",
+      "relevant": [
+        "airqualityforeast"
+      ],
+      "keywords": "air quality zip code"
+    },
+    {
+      "id": "single-359",
+      "request": "I can't seem to come up with any ideas for my illustrated story. Can you help me get started?",
+      "relevant": [
+        "storybird_stories"
+      ],
+      "keywords": "story ideas generator creative writing"
+    },
+    {
+      "id": "single-360",
+      "request": "Can you find the latest articles from The New York Times for me?",
+      "relevant": [
+        "web_requests"
+      ],
+      "keywords": "New York Times articles latest news"
+    },
+    {
+      "id": "single-361",
+      "request": "My team is not scoring enough points! Can you suggest some changes I can make to improve the performance? ",
+      "relevant": [
+        "talkfpl"
+      ],
+      "keywords": "sports team performance scoring"
+    },
+    {
+      "id": "single-362",
+      "request": "What's the current map rotation for Ranked matches in APEX Legends?",
+      "relevant": [
+        "ApexMap"
+      ],
+      "keywords": "APEX Legends ranked map rotation"
+    },
+    {
+      "id": "single-363",
+      "request": "I can't believe this! I need to check the disk space on my server. ",
+      "relevant": [
+        "SSH"
+      ],
+      "keywords": "disk space check server"
+    },
+    {
+      "id": "single-364",
+      "request": "I would like to know the average household size in the state of Colorado.",
+      "relevant": [
+        "blockatlas"
+      ],
+      "keywords": "Colorado household size statistics demographics"
+    },
+    {
+      "id": "single-365",
+      "request": "How can I manage my data?",
+      "relevant": [
+        "LarkBaseImporter"
+      ],
+      "keywords": "data management"
+    },
+    {
+      "id": "single-366",
+      "request": "Give me a summary of the top 5 holdings in my portfolio.",
+      "relevant": [
+        "portfoliopilot"
+      ],
+      "keywords": "portfolio holdings"
+    },
+    {
+      "id": "single-367",
+      "request": "Please utilize natural language processing techniques to analyze and extract the specific eligibility criteria outlined in the clinical trial with the identifier NCT05859269. Additionally, ascertain the medical terminologies that are closely associated with patients within the given clinical trial.",
+      "relevant": [
+        "CTCP"
+      ],
+      "keywords": "clinical trial NCT05859269 eligibility criteria"
+    },
+    {
+      "id": "single-368",
+      "request": "Search for tweets about the highly anticipated and upcoming Marvel movie releases, including any latest updates, fan reactions, and sneak peeks provided by official sources, celebrities, and other relevant individuals within the Marvel Cinematic Universe (MCU) community.",
+      "relevant": [
+        "socialsearch"
+      ],
+      "keywords": "search tweets Marvel movie releases"
+    },
+    {
+      "id": "single-369",
+      "request": "I love reading about coding! Can you recommend some interesting articles from DEV Community?",
+      "relevant": [
+        "dev"
+      ],
+      "keywords": "DEV Community articles coding"
+    },
+    {
+      "id": "single-370",
+      "request": "Can you summarize the most significant events in the French Revolution?",
+      "relevant": [
+        "MixerBox_WebSearchG_web_search"
+      ],
+      "keywords": "French Revolution history summary"
+    },
+    {
+      "id": "single-371",
+      "request": "How can I import my spreadsheet data into Lark Base for analysis?",
+      "relevant": [
+        "LarkBaseImporter"
+      ],
+      "keywords": "Lark Base import spreadsheet data"
+    },
+    {
+      "id": "single-372",
+      "request": "What font does this company use?",
+      "relevant": [
+        "brandfetch"
+      ],
+      "keywords": "font identification"
+    },
+    {
+      "id": "single-373",
+      "request": "Is my email vulnerable to any hacks?",
+      "relevant": [
+        "hacktrack"
+      ],
+      "keywords": "email security vulnerability check"
+    },
+    {
+      "id": "single-374",
+      "request": "Do you have experience working with eCommerce platforms like Magento and WooCommerce?",
+      "relevant": [
+        "Google_Ads_Shopping_Microsoft_Ads_pay_per_click"
+      ],
+      "keywords": "Magento WooCommerce eCommerce"
+    },
+    {
+      "id": "single-375",
+      "request": "I am in search of a specialized filter that can effectively enhance the visual quality of my travel video, granting it a captivating and sophisticated cinematic ambiance.",
+      "relevant": [
+        "MediaModifyTool"
+      ],
+      "keywords": "cinematic video filter enhancement"
+    },
+    {
+      "id": "single-376",
+      "request": "Can you thoroughly analyze my current Fantasy Premier League (FPL) squad, taking into account player performances, positions, and upcoming fixtures, and provide detailed suggestions for potential transfer options that could enhance my team's overall performance and maximize points?",
+      "relevant": [
+        "talkfpl"
+      ],
+      "keywords": "Fantasy Premier League FPL squad analysis"
+    },
+    {
+      "id": "single-377",
+      "request": "I have a difficult choice to make between the iPhone 12 Pro and the Samsung Galaxy S20. Can you help me break down the differences?",
+      "relevant": [
+        "ProductComparison"
+      ],
+      "keywords": "iPhone 12 Pro specifications comparison"
+    },
+    {
+      "id": "single-378",
+      "request": "Can you suggest specific strategies and techniques that will effectively help me stay consistent and motivated with my exercise routine, despite any potential obstacles or challenges that may arise?",
+      "relevant": [
+        "mini_habits"
+      ],
+      "keywords": "exercise motivation consistency fitness routine"
+    },
+    {
+      "id": "single-379",
+      "request": "I'm considering investing in cryptocurrencies. What are the recommended options and their risks?",
+      "relevant": [
+        "portfoliopilot"
+      ],
+      "keywords": "cryptocurrency investment recommendations risks"
+    },
+    {
+      "id": "single-380",
+      "request": "Do you have a checkers game feature? I'd love to use it.",
+      "relevant": [
+        "Checkers"
+      ],
+      "keywords": "checkers game"
+    },
+    {
+      "id": "single-381",
+      "request": "Can you help me explore different perspectives on this issue?",
+      "relevant": [
+        "MixerBox_WebSearchG_web_search"
+      ],
+      "keywords": "perspectives analysis viewpoints"
+    },
+    {
+      "id": "single-382",
+      "request": "I need some guidance on web development. Can you suggest some developers from DEV Community who specialize in this field?",
+      "relevant": [
+        "dev"
+      ],
+      "keywords": "DEV Community developers web development"
+    },
+    {
+      "id": "single-383",
+      "request": "Can you find recent interviews with the principal cast members of a critically acclaimed and commercially successful movie released within the last year?",
+      "relevant": [
+        "video_highlight"
+      ],
+      "keywords": "recent interviews movie cast"
+    },
+    {
+      "id": "single-384",
+      "request": "Oh my goodness, I discovered an incredible book on psychology that I must read! But first, can you provide a summary of it? I'm super eager to learn the main ideas. [Link to the book]",
+      "relevant": [
+        "SummarizeAnything_pr"
+      ],
+      "keywords": "book summary psychology"
+    },
+    {
+      "id": "single-385",
+      "request": "I'm trying to improve my fitness routine by incorporating different types of exercises and gradually increasing the intensity to challenge myself and make progress towards my fitness goals.",
+      "relevant": [
+        "aiAgents"
+      ],
+      "keywords": "fitness routine exercises workout plan"
+    },
+    {
+      "id": "single-386",
+      "request": "I need help with my fitness routine, can you assist?",
+      "relevant": [
+        "Planfit"
+      ],
+      "keywords": "fitness routine workout exercise"
+    },
+    {
+      "id": "single-387",
+      "request": "I want to explore some popular tourist destinations. Can you provide me with some details and images?",
+      "relevant": [
+        "lsongai"
+      ],
+      "keywords": "tourist destinations travel information"
+    },
+    {
+      "id": "single-388",
+      "request": "\"Can you create a word cloud that shows the top words used in the Harry Potter series?\"",
+      "relevant": [
+        "WordCloud"
+      ],
+      "keywords": "word cloud generator"
+    },
+    {
+      "id": "single-389",
+      "request": "Can you find me a step-by-step makeup tutorial for a natural look on YouTube?",
+      "relevant": [
+        "video_highlight"
+      ],
+      "keywords": "YouTube video search"
+    },
+    {
+      "id": "single-390",
+      "request": "Can you provide me with information about the brand identity of McDonald's, including their logo, colors, and fonts?",
+      "relevant": [
+        "brandfetch"
+      ],
+      "keywords": "McDonald's brand identity logo colors fonts"
+    },
+    {
+      "id": "single-391",
+      "request": "I've got this silent film script that I want to transform into audio. Can you help me with that?",
+      "relevant": [
+        "speechki_tts_plugin"
+      ],
+      "keywords": "text to speech audio conversion"
+    },
+    {
+      "id": "single-392",
+      "request": "How can I have an intelligent conversation in my Notion workspace?",
+      "relevant": [
+        "chat_with_workspace"
+      ],
+      "keywords": "Notion AI conversation intelligent"
+    },
+    {
+      "id": "single-393",
+      "request": "I'm currently writing a research paper on climate change. Can you suggest some reliable sources of information?",
+      "relevant": [
+        "aiAgents"
+      ],
+      "keywords": "climate change research sources databases"
+    },
+    {
+      "id": "single-394",
+      "request": "Can you help me add a new page to my Notion workspace?",
+      "relevant": [
+        "chat_with_workspace"
+      ],
+      "keywords": "Notion add page create"
+    },
+    {
+      "id": "single-395",
+      "request": "Is there a comprehensive video tutorial available that provides step-by-step instructions on how to play checkers using this plugin, including detailed explanations of the rules, strategies, and possible game variations?",
+      "relevant": [
+        "Checkers"
+      ],
+      "keywords": "checkers video tutorial plugin"
+    },
+    {
+      "id": "single-396",
+      "request": "I am so frustrated with the subway system in Korea! No matter which station I want to go to, it's always so confusing to figure out the best route. Can you help me find the quickest way to get from Gangnam Station to Myeongdong Station using the subway? ",
+      "relevant": [
+        "korea_subway"
+      ],
+      "keywords": "Korea subway route planner directions"
+    },
+    {
+      "id": "single-397",
+      "request": "Hi, ChatGPT! Can you please help me in creating a crossword puzzle? I want to add words and hints to it.",
+      "relevant": [
+        "Puzzle_Constructor"
+      ],
+      "keywords": "crossword puzzle creator"
+    },
+    {
+      "id": "single-398",
+      "request": "Can you summarize this YouTube video for me? ",
+      "relevant": [
+        "SummarizeAnything_pr"
+      ],
+      "keywords": "YouTube video summarizer"
+    },
+    {
+      "id": "multi-001",
+      "request": "Give me an overview of trending open-source projects in web development, and provide me with any recent news articles related to those projects.",
+      "relevant": [
+        "RepoTool",
+        "NewsTool"
+      ],
+      "keywords": "trending open source projects web development"
+    },
+    {
+      "id": "multi-002",
+      "request": "What are the recent economic trends and how are they impacting the stock market?",
+      "relevant": [
+        "NewsTool",
+        "FinanceTool"
+      ],
+      "keywords": "economic trends stock market analysis"
+    },
+    {
+      "id": "multi-003",
+      "request": "Can you provide me with recent research articles on climate change and its impact on marine ecosystems?",
+      "relevant": [
+        "ResearchFinder",
+        "ResearchHelper"
+      ],
+      "keywords": "research articles climate change marine ecosystems"
+    },
+    {
+      "id": "multi-004",
+      "request": "Can you provide me with recent studies on the effects of pollution on human health? Also, I'm planning a trip next week, so could you tell me what the weather will be like in that city?",
+      "relevant": [
+        "ResearchHelper",
+        "WeatherTool"
+      ],
+      "keywords": "pollution health effects studies research"
+    },
+    {
+      "id": "multi-005",
+      "request": "I'm interested in learning about the current job market trends for cybersecurity professionals. Additionally, could you show me any news updates highlighting major data breaches?",
+      "relevant": [
+        "JobTool",
+        "NewsTool"
+      ],
+      "keywords": "job market trends cybersecurity"
+    },
+    {
+      "id": "multi-006",
+      "request": "Can you calculate the average salary of finance professionals in New York City, and also provide me with a list of job openings in that area?",
+      "relevant": [
+        "JobTool",
+        "FinanceTool"
+      ],
+      "keywords": "salary data finance professionals New York City"
+    },
+    {
+      "id": "multi-007",
+      "request": "Can you provide me with a list of companies in the technology sector that have shown consistent growth in their stock prices over the past five years? Additionally, can you give me an analysis of their financial performance?",
+      "relevant": [
+        "ResearchHelper",
+        "FinanceTool"
+      ],
+      "keywords": "technology companies stock price growth analysis"
+    },
+    {
+      "id": "multi-008",
+      "request": "\"Can you find me news articles about the current housing market trends?\"",
+      "relevant": [
+        "HousePurchasingTool",
+        "NewsTool"
+      ],
+      "keywords": "news articles housing market trends"
+    },
+    {
+      "id": "multi-009",
+      "request": "Can you suggest research articles on the impact of social media on mental health and provide examples of job positions in the field of social media marketing?",
+      "relevant": [
+        "ResearchHelper",
+        "JobTool"
+      ],
+      "keywords": "research articles social media mental health"
+    },
+    {
+      "id": "multi-010",
+      "request": "Can you calculate the compound interest for a $10,000 investment with a 5% rate for 5 years, and also check if there are any discounts available on shares of Company X?",
+      "relevant": [
+        "FinanceTool",
+        "Discount"
+      ],
+      "keywords": "compound interest calculator"
+    },
+    {
+      "id": "multi-011",
+      "request": "I'm going on a road trip tomorrow. Can you tell me the weather forecast for the next few days and recommend some energetic music for the journey?",
+      "relevant": [
+        "WeatherTool",
+        "MusicTool"
+      ],
+      "keywords": "weather forecast"
+    },
+    {
+      "id": "multi-012",
+      "request": "I want to invest $20,000 in government bonds with an interest rate of 3%. Can you calculate the total return after 10 years and also check if there are any discounts on the bonds?",
+      "relevant": [
+        "FinanceTool",
+        "Discount"
+      ],
+      "keywords": "bond investment calculator interest return"
+    },
+    {
+      "id": "multi-013",
+      "request": "\"I need to stay up-to-date with current events and also improve my writing skills. Any suggestions on courses that cover both topics?\"",
+      "relevant": [
+        "NewsTool",
+        "CourseTool"
+      ],
+      "keywords": "courses current events writing skills"
+    },
+    {
+      "id": "multi-014",
+      "request": "What are the top programming languages used in data science and machine learning projects?",
+      "relevant": [
+        "CourseTool",
+        "RepoTool"
+      ],
+      "keywords": "programming languages data science machine learning"
+    },
+    {
+      "id": "multi-015",
+      "request": "Can you tell me if there will be any discounts at my favorite clothing store tomorrow? Also, can you let me know how the weather will be?",
+      "relevant": [
+        "WeatherTool",
+        "Discount"
+      ],
+      "keywords": "weather forecast"
+    },
+    {
+      "id": "multi-016",
+      "request": "Could you suggest some hiking trails in the Rocky Mountains? Also, I have a PDF document containing detailed maps of the region. Can you extract the relevant maps and display them for me?",
+      "relevant": [
+        "TripTool",
+        "PDF&URLTool"
+      ],
+      "keywords": "hiking trails Rocky Mountains"
+    },
+    {
+      "id": "multi-017",
+      "request": "I need help finding a course that covers machine learning algorithms. Also, could you suggest job opportunities in the field of artificial intelligence?",
+      "relevant": [
+        "JobTool",
+        "CourseTool"
+      ],
+      "keywords": "machine learning algorithms course"
+    },
+    {
+      "id": "multi-018",
+      "request": "I'm interested in buying a new pair of running shoes. Can you find me a pair with a discount?",
+      "relevant": [
+        "ProductSearch",
+        "Discount"
+      ],
+      "keywords": "running shoes discount"
+    },
+    {
+      "id": "multi-019",
+      "request": "Can you find me a playlist of upbeat songs for my workout? Also, recommend some wireless headphones that are suitable for exercising.",
+      "relevant": [
+        "MusicTool",
+        "ProductSearch"
+      ],
+      "keywords": "workout playlist upbeat songs"
+    },
+    {
+      "id": "multi-020",
+      "request": "\"I need assistance in finding a programming course that covers both Python and Java. Additionally, can you find any research papers on the applications of these programming languages?\"",
+      "relevant": [
+        "CourseTool",
+        "ResearchFinder"
+      ],
+      "keywords": "programming course Python Java"
+    },
+    {
+      "id": "multi-021",
+      "request": "\"I want to explore research papers on human-computer interaction and also find related courses to deepen my understanding. Can you assist me with that?\"",
+      "relevant": [
+        "ResearchFinder",
+        "CourseTool"
+      ],
+      "keywords": "research papers human-computer interaction"
+    },
+    {
+      "id": "multi-022",
+      "request": "Can you provide me with a list of the highest paying finance jobs and their average salaries in the market right now? Also, can you suggest some specific companies hiring for those positions using JobTool?",
+      "relevant": [
+        "FinanceTool",
+        "JobTool"
+      ],
+      "keywords": "JobTool job search hiring"
+    },
+    {
+      "id": "multi-023",
+      "request": "What is the current temperature in my city and can you provide me with a URL link to a detailed weather report?",
+      "relevant": [
+        "PDF&URLTool",
+        "WeatherTool"
+      ],
+      "keywords": "weather temperature current"
+    },
+    {
+      "id": "multi-024",
+      "request": "Can you tell me the current weather conditions and recommend any outdoor courses nearby?",
+      "relevant": [
+        "WeatherTool",
+        "CourseTool"
+      ],
+      "keywords": "weather current conditions"
+    },
+    {
+      "id": "multi-025",
+      "request": "Can you tell me the current temperature in my city and also provide me with an overview of the stock market?",
+      "relevant": [
+        "WeatherTool",
+        "FinanceTool"
+      ],
+      "keywords": "weather temperature current"
+    },
+    {
+      "id": "multi-026",
+      "request": "Can you help me calculate the monthly mortgage payment for a house worth $500,000 with an interest rate of 4% using the first tool? And then, using the second tool, can you tell me the current stock price of the bank that provides the mortgage?",
+      "relevant": [
+        "HousePurchasingTool",
+        "FinanceTool"
+      ],
+      "keywords": "mortgage payment calculator"
+    },
+    {
+      "id": "multi-027",
+      "request": "\"I need research papers on data privacy and security. Additionally, I would like to know if there are any courses that address this topic.\"",
+      "relevant": [
+        "ResearchFinder",
+        "CourseTool"
+      ],
+      "keywords": "research papers data privacy security"
+    },
+    {
+      "id": "multi-028",
+      "request": "I want to buy a house, but I'm looking for one with a discounted price. Can you help me find available options?",
+      "relevant": [
+        "Discount",
+        "HousePurchasingTool"
+      ],
+      "keywords": "discounted houses for sale"
+    },
+    {
+      "id": "multi-029",
+      "request": "I want to know the latest updates on the economy, particularly any news related to housing affordability. Additionally, could you give me some tips on purchasing a house in my area?",
+      "relevant": [
+        "NewsTool",
+        "HousePurchasingTool"
+      ],
+      "keywords": "economy housing affordability news updates"
+    },
+    {
+      "id": "multi-030",
+      "request": "I want to plan a picnic. Please let me know the weather conditions for tomorrow and suggest some cheerful music to enhance the mood.",
+      "relevant": [
+        "WeatherTool",
+        "MusicTool"
+      ],
+      "keywords": "weather forecast tomorrow"
+    },
+    {
+      "id": "multi-031",
+      "request": "I'm planning a vacation to Italy and want to learn more about the local cuisine. Is there a PDF guide available that includes traditional Italian recipes along with a curated list of Italian music to create an authentic atmosphere while cooking?",
+      "relevant": [
+        "PDF&URLTool",
+        "MusicTool"
+      ],
+      "keywords": "Italian recipes PDF guide"
+    },
+    {
+      "id": "multi-032",
+      "request": "Can you suggest some popular destinations for a family vacation?",
+      "relevant": [
+        "TripTool",
+        "TripAdviceTool"
+      ],
+      "keywords": "family vacation destinations travel recommendations"
+    },
+    {
+      "id": "multi-033",
+      "request": "\"I want to plan a trip to Bali. Can you suggest some popular attractions and the best time to visit? Additionally, what are the visa requirements for Indonesian tourists?\"",
+      "relevant": [
+        "TripAdviceTool",
+        "TripTool"
+      ],
+      "keywords": "Bali attractions travel guide"
+    },
+    {
+      "id": "multi-034",
+      "request": "Can you provide me with research papers discussing the effects of social media on mental health, as well as any recent news articles covering this topic?",
+      "relevant": [
+        "ResearchFinder",
+        "NewsTool"
+      ],
+      "keywords": "research papers social media mental health"
+    },
+    {
+      "id": "multi-035",
+      "request": "I'm looking for a laptop with specific features. Could you show me any discounts available on such products?",
+      "relevant": [
+        "ProductSearch",
+        "Discount"
+      ],
+      "keywords": "laptop discounts deals"
+    },
+    {
+      "id": "multi-036",
+      "request": "I'm interested in buying a house in a city known for its tourist attractions. Can you provide me with options that have both affordable housing and popular landmarks? ",
+      "relevant": [
+        "HousePurchasingTool",
+        "TripTool"
+      ],
+      "keywords": "affordable housing tourist attractions cities"
+    },
+    {
+      "id": "multi-037",
+      "request": "Can you recommend a top-rated hotel in Paris that is also near popular job opportunities?",
+      "relevant": [
+        "TripAdviceTool",
+        "JobTool"
+      ],
+      "keywords": "hotel recommendations Paris"
+    },
+    {
+      "id": "multi-038",
+      "request": "What's the current temperature? Can you also suggest some relaxing music that complements the weather?",
+      "relevant": [
+        "WeatherTool",
+        "MusicTool"
+      ],
+      "keywords": "current temperature weather"
+    },
+    {
+      "id": "multi-039",
+      "request": "I'm interested in learning graphic design. Can you recommend any graphic design courses and suggest some popular sightseeing spots in the city where the courses are offered?",
+      "relevant": [
+        "CourseTool",
+        "TripTool"
+      ],
+      "keywords": "graphic design courses"
+    },
+    {
+      "id": "multi-040",
+      "request": "I'm traveling to Miami next month. Can you tell me if there are any discounted flight options available from my current location?",
+      "relevant": [
+        "TripTool",
+        "Discount"
+      ],
+      "keywords": "flight search discounted deals"
+    },
+    {
+      "id": "multi-041",
+      "request": "How can I invest my savings wisely and also learn about financial planning?",
+      "relevant": [
+        "FinanceTool",
+        "CourseTool"
+      ],
+      "keywords": "investment financial planning"
+    },
+    {
+      "id": "multi-042",
+      "request": "Can you give me an overview of the current economic situation around the world, including any related research papers?",
+      "relevant": [
+        "NewsTool",
+        "ResearchFinder"
+      ],
+      "keywords": "economic situation world global economy"
+    },
+    {
+      "id": "multi-043",
+      "request": "I'm interested in learning more about programming languages. Can you recommend me some reliable URLs and PDF resources for beginners, as well as provide job listings for programming positions?",
+      "relevant": [
+        "PDF&URLTool",
+        "JobTool"
+      ],
+      "keywords": "programming languages learning resources tutorials"
+    },
+    {
+      "id": "multi-044",
+      "request": "I'm planning a road trip across the United States. Can you recommend scenic routes and attractions along the way?",
+      "relevant": [
+        "TripTool",
+        "TripAdviceTool"
+      ],
+      "keywords": "scenic routes attractions road trip United States"
+    },
+    {
+      "id": "multi-045",
+      "request": "What are some popular tourist attractions in Paris? Also, are there any language courses available in the city?",
+      "relevant": [
+        "TripAdviceTool",
+        "CourseTool"
+      ],
+      "keywords": "Paris tourist attractions"
+    },
+    {
+      "id": "multi-046",
+      "request": "What is the weather forecast for this weekend? By the way, could you also find out if there are any ongoing promotions on electronics in local stores?",
+      "relevant": [
+        "WeatherTool",
+        "Discount"
+      ],
+      "keywords": "weather forecast"
+    },
+    {
+      "id": "multi-047",
+      "request": "I need resources for understanding \"reinforcement learning\" techniques, can you suggest some research papers and GitHub repositories?",
+      "relevant": [
+        "ResearchFinder",
+        "RepoTool"
+      ],
+      "keywords": "reinforcement learning research papers"
+    },
+    {
+      "id": "multi-048",
+      "request": "I'm planning a trip next week. Can you give me the weather conditions for my destination? Additionally, can you check if there are any discounted hotel rates available?",
+      "relevant": [
+        "WeatherTool",
+        "Discount"
+      ],
+      "keywords": "weather forecast"
+    },
+    {
+      "id": "multi-049",
+      "request": "I want to pursue a career in graphic design. Can you suggest any online courses where I can learn the necessary design software and also provide information on job prospects in this field?",
+      "relevant": [
+        "CourseTool",
+        "JobTool"
+      ],
+      "keywords": "online courses graphic design software"
+    },
+    {
+      "id": "multi-050",
+      "request": "I want to travel to Spain for a vacation, but I'm also interested in learning about job opportunities there. Can you provide recommendations for both tourist attractions and potential job locations?",
+      "relevant": [
+        "TripAdviceTool",
+        "JobTool"
+      ],
+      "keywords": "Spain tourist attractions travel recommendations"
+    },
+    {
+      "id": "multi-051",
+      "request": "I'm planning a road trip along the West Coast of the United States. Can you recommend some popular tourist spots and provide me with a PDF itinerary?",
+      "relevant": [
+        "PDF&URLTool",
+        "TripAdviceTool"
+      ],
+      "keywords": "PDF itinerary generator travel planning"
+    },
+    {
+      "id": "multi-052",
+      "request": "\"What is the current housing market trend and how does it affect my investment portfolio?\"",
+      "relevant": [
+        "FinanceTool",
+        "HousePurchasingTool"
+      ],
+      "keywords": "housing market trends real estate"
+    },
+    {
+      "id": "multi-053",
+      "request": "Which areas in my city have the lowest humidity, and are there any affordable houses available there?",
+      "relevant": [
+        "HousePurchasingTool",
+        "WeatherTool"
+      ],
+      "keywords": "humidity levels by area city"
+    },
+    {
+      "id": "multi-054",
+      "request": "\"I need some advice on where to go for my upcoming vacation. Can you suggest some off-the-beaten-path destinations and provide me with some background music that matches the vibe of those places?\"",
+      "relevant": [
+        "MusicTool",
+        "TripAdviceTool"
+      ],
+      "keywords": "travel destinations vacation recommendations"
+    },
+    {
+      "id": "multi-055",
+      "request": "I want to relocate for work. Could you suggest some cities with good job prospects and reasonable housing prices?",
+      "relevant": [
+        "HousePurchasingTool",
+        "JobTool"
+      ],
+      "keywords": "job market housing prices cities relocation"
+    },
+    {
+      "id": "multi-056",
+      "request": "\"How much does a gallon of gasoline cost in California? Additionally, can you suggest some budget-friendly hotels in San Francisco?\"",
+      "relevant": [
+        "FinanceTool",
+        "TripTool"
+      ],
+      "keywords": "gasoline price California"
+    },
+    {
+      "id": "multi-057",
+      "request": "How can I plan a trip to New York City and find courses on photography there?",
+      "relevant": [
+        "TripAdviceTool",
+        "CourseTool"
+      ],
+      "keywords": "trip planning New York City"
+    },
+    {
+      "id": "multi-058",
+      "request": "What are the popular programming languages used in data science? Can you recommend both online courses and job positions that require proficiency in these languages?",
+      "relevant": [
+        "JobTool",
+        "CourseTool"
+      ],
+      "keywords": "programming languages data science"
+    },
+    {
+      "id": "multi-059",
+      "request": "Can you help me find a research paper on the impact of inflation on stock market performance?",
+      "relevant": [
+        "FinanceTool",
+        "ResearchFinder"
+      ],
+      "keywords": "research paper inflation stock market performance"
+    },
+    {
+      "id": "multi-060",
+      "request": "Is it going to rain tomorrow? If so, please check if there are any indoor activities or events happening nearby at discounted prices.",
+      "relevant": [
+        "WeatherTool",
+        "Discount"
+      ],
+      "keywords": "weather forecast rain tomorrow"
+    },
+    {
+      "id": "multi-061",
+      "request": "\"I'm looking for a new pair of running shoes. What are some discounted options with good arch support?\"",
+      "relevant": [
+        "Discount",
+        "ProductSearch"
+      ],
+      "keywords": "running shoes discounted arch support"
+    },
+    {
+      "id": "multi-062",
+      "request": "\"I'm interested in relocating for a job. Which cities have employment opportunities and affordable housing?\"",
+      "relevant": [
+        "JobTool",
+        "HousePurchasingTool"
+      ],
+      "keywords": "cities employment opportunities affordable housing relocation"
+    },
+    {
+      "id": "multi-063",
+      "request": "I'm considering buying a house as an investment property. Could you please use the first tool to estimate the potential rental income for a particular property, and then use the second tool to provide a comparison of the property's value appreciation over the past few years?",
+      "relevant": [
+        "HousePurchasingTool",
+        "FinanceTool"
+      ],
+      "keywords": "rental income estimate property"
+    },
+    {
+      "id": "multi-064",
+      "request": "Can you provide me with the historical price data for Company Z's stock over the past year? Also, let me know if there are any discounts available on purchasing the stock.",
+      "relevant": [
+        "FinanceTool",
+        "Discount"
+      ],
+      "keywords": "stock price historical data"
+    },
+    {
+      "id": "multi-065",
+      "request": "\"What are the best neighborhoods to buy a house in right now? Also, can you show me recent news articles about these neighborhoods?\"",
+      "relevant": [
+        "HousePurchasingTool",
+        "NewsTool"
+      ],
+      "keywords": "best neighborhoods to buy house real estate"
+    },
+    {
+      "id": "multi-066",
+      "request": "Can you assist me in finding remote job options in the field of graphic design? Additionally, I'd like to stay updated on any news regarding the latest design tools and software.",
+      "relevant": [
+        "JobTool",
+        "NewsTool"
+      ],
+      "keywords": "remote job graphic design"
+    },
+    {
+      "id": "multi-067",
+      "request": "Can you recommend some budget-friendly travel destinations and provide information on their local currency exchange rates?",
+      "relevant": [
+        "FinanceTool",
+        "TripAdviceTool"
+      ],
+      "keywords": "budget travel destinations"
+    },
+    {
+      "id": "multi-068",
+      "request": "\"I need to find information about the pricing of the product I want to buy. Can you help me by providing a URL to a website that sells it?\"",
+      "relevant": [
+        "PDF&URLTool",
+        "Discount"
+      ],
+      "keywords": "product pricing website URL"
+    },
+    {
+      "id": "multi-069",
+      "request": "\"I'm interested in fashion trends. Can you suggest the latest clothing items and also provide information on where I can purchase them online?\"",
+      "relevant": [
+        "ProductSearch",
+        "NewsTool"
+      ],
+      "keywords": "fashion trends clothing shopping"
+    },
+    {
+      "id": "multi-070",
+      "request": "I want to know the latest news related to artificial intelligence, and also recommend me some AI job opportunities available in reputed companies.",
+      "relevant": [
+        "NewsTool",
+        "JobTool"
+      ],
+      "keywords": "latest news artificial intelligence"
+    },
+    {
+      "id": "multi-071",
+      "request": "\"What are the best stocks for long-term investment and how can I plan my travel budget wisely?\"",
+      "relevant": [
+        "TripAdviceTool",
+        "FinanceTool"
+      ],
+      "keywords": "stocks long-term investment recommendations"
+    },
+    {
+      "id": "multi-072",
+      "request": "What are the best online resources to learn about personal finance and find courses on budgeting and saving money?",
+      "relevant": [
+        "FinanceTool",
+        "CourseTool"
+      ],
+      "keywords": "personal finance courses budgeting saving money online resources"
+    },
+    {
+      "id": "multi-073",
+      "request": "Can you tell me the current temperature in my city and how it will affect the stock market?",
+      "relevant": [
+        "FinanceTool",
+        "WeatherTool"
+      ],
+      "keywords": "current temperature weather"
+    },
+    {
+      "id": "multi-074",
+      "request": "\"What are the latest trending news articles related to computer science? Also, can you recommend any online courses for beginners in coding?\" ",
+      "relevant": [
+        "CourseTool",
+        "NewsTool"
+      ],
+      "keywords": "trending news articles computer science"
+    },
+    {
+      "id": "multi-075",
+      "request": "Is there any news about the upcoming Black Friday sales and any exclusive discounts associated with it?",
+      "relevant": [
+        "NewsTool",
+        "Discount"
+      ],
+      "keywords": "Black Friday sales news discounts"
+    },
+    {
+      "id": "multi-076",
+      "request": "Can you tell me if it will rain in London tomorrow? Also, suggest some popular cafes near the museums that I can visit.",
+      "relevant": [
+        "WeatherTool",
+        "TripTool"
+      ],
+      "keywords": "weather forecast rain London"
+    },
+    {
+      "id": "multi-077",
+      "request": "Can you find any recent research papers on climate change and its impact on agriculture? Also, what is the weather forecast for tomorrow in my city?",
+      "relevant": [
+        "ResearchHelper",
+        "WeatherTool"
+      ],
+      "keywords": "research papers climate change agriculture"
+    },
+    {
+      "id": "multi-078",
+      "request": "\"I've been practicing singing for a while and I'm looking for online courses to develop my vocal range and improve my pitch accuracy. Additionally, I'm interested in learning about different singing styles. Can you suggest any courses that cover these aspects?\" ",
+      "relevant": [
+        "CourseTool",
+        "MusicTool"
+      ],
+      "keywords": "online singing courses vocal range pitch accuracy"
+    },
+    {
+      "id": "multi-079",
+      "request": "What's the weather like in Paris next week? Can you also suggest some popular tourist attractions I should visit during my trip?",
+      "relevant": [
+        "WeatherTool",
+        "TripTool"
+      ],
+      "keywords": "weather forecast Paris"
+    },
+    {
+      "id": "multi-080",
+      "request": "\"Can you recommend a PDF where I can find sheet music for popular songs?\"",
+      "relevant": [
+        "MusicTool",
+        "PDF&URLTool"
+      ],
+      "keywords": "sheet music PDF popular songs"
+    },
+    {
+      "id": "multi-081",
+      "request": "Can you give me the latest news on climate change and any scientific studies related to it?",
+      "relevant": [
+        "NewsTool",
+        "ResearchHelper"
+      ],
+      "keywords": "climate change news latest"
+    },
+    {
+      "id": "multi-082",
+      "request": "Can you help me find some recent research articles on the impact of home renovations on property value?",
+      "relevant": [
+        "ResearchFinder",
+        "HousePurchasingTool"
+      ],
+      "keywords": "research articles home renovations property value"
+    },
+    {
+      "id": "multi-083",
+      "request": "How can I calculate the compound interest of an investment over a period of time, and which financial courses would you suggest to improve my understanding of investments?",
+      "relevant": [
+        "CourseTool",
+        "FinanceTool"
+      ],
+      "keywords": "compound interest calculator"
+    },
+    {
+      "id": "multi-084",
+      "request": "I'm planning a vacation but I also need to manage my finances. Can you suggest some cost-effective travel tips and ways to save money during my trip?",
+      "relevant": [
+        "FinanceTool",
+        "TripAdviceTool"
+      ],
+      "keywords": "travel tips budget cost-effective"
+    },
+    {
+      "id": "multi-085",
+      "request": "I'm planning a trip to New York next month. Can you tell me if there are any discounts available for hotels in the city?",
+      "relevant": [
+        "Discount",
+        "TripAdviceTool"
+      ],
+      "keywords": "hotel discounts New York"
+    },
+    {
+      "id": "multi-086",
+      "request": "\"I'm planning a trip to Japan. Could you provide me with information on the latest advancements in robotics and suggest some famous landmarks to visit?\"",
+      "relevant": [
+        "ResearchFinder",
+        "TripTool"
+      ],
+      "keywords": "Japan landmarks tourist attractions"
+    },
+    {
+      "id": "multi-087",
+      "request": "\"I want to improve my guitar skills and learn how to compose my own songs. Any music courses that offer both?\"",
+      "relevant": [
+        "MusicTool",
+        "CourseTool"
+      ],
+      "keywords": "guitar music composition courses"
+    },
+    {
+      "id": "multi-088",
+      "request": "\"I need information on the best practices for data encryption. Can you show me a PDF or direct me to a reliable website that explains this topic in detail?\"",
+      "relevant": [
+        "NewsTool",
+        "PDF&URLTool"
+      ],
+      "keywords": "data encryption best practices PDF guide"
+    },
+    {
+      "id": "multi-089",
+      "request": "How can I learn about investing in real estate? And can you provide me with the current average house prices in that area?",
+      "relevant": [
+        "CourseTool",
+        "HousePurchasingTool"
+      ],
+      "keywords": "real estate investing education learning"
+    },
+    {
+      "id": "multi-090",
+      "request": "How can I find a cozy bed and breakfast near a music venue for my upcoming vacation?",
+      "relevant": [
+        "TripAdviceTool",
+        "MusicTool"
+      ],
+      "keywords": "bed and breakfast accommodation booking"
+    },
+    {
+      "id": "multi-091",
+      "request": "Can you find me a PDF document on machine learning algorithms and also suggest some related job openings in this field?",
+      "relevant": [
+        "PDF&URLTool",
+        "JobTool"
+      ],
+      "keywords": "PDF document machine learning algorithms"
+    },
+    {
+      "id": "multi-092",
+      "request": "\"Is there any PDF document that explains the concept of cloud computing? Additionally, can you recommend an online course on this topic?\"",
+      "relevant": [
+        "PDF&URLTool",
+        "CourseTool"
+      ],
+      "keywords": "PDF document cloud computing"
+    },
+    {
+      "id": "multi-093",
+      "request": "What are some discounted online courses for programming beginners?",
+      "relevant": [
+        "CourseTool",
+        "Discount"
+      ],
+      "keywords": "discounted online programming courses for beginners"
+    },
+    {
+      "id": "multi-094",
+      "request": "What's the weather like in Tokyo right now? Which hotels in the city center are offering discounted rates for the next month?",
+      "relevant": [
+        "WeatherTool",
+        "TripTool"
+      ],
+      "keywords": "weather Tokyo current"
+    },
+    {
+      "id": "multi-095",
+      "request": "I'm looking for a comprehensive guide on the legal process of buying a house, as well as a website that shows current property listings in my desired area.",
+      "relevant": [
+        "PDF&URLTool",
+        "HousePurchasingTool"
+      ],
+      "keywords": "legal process buying house guide"
+    },
+    {
+      "id": "multi-096",
+      "request": "I'm looking for a new career opportunity in the tech industry. Can you help me find job openings and let me know if any discounted training programs are available?",
+      "relevant": [
+        "JobTool",
+        "Discount"
+      ],
+      "keywords": "job openings tech industry"
+    },
+    {
+      "id": "multi-097",
+      "request": "I'm planning a trip to London next week. Could you please give me the weather forecast for the upcoming days? Additionally, I'd like some research insights on the average temperature variations in London during this time of year.",
+      "relevant": [
+        "WeatherTool",
+        "ResearchHelper"
+      ],
+      "keywords": "weather forecast London"
+    },
+    {
+      "id": "multi-098",
+      "request": "\"I want to learn Python programming. Are there any online courses available at a discounted price?\"",
+      "relevant": [
+        "Discount",
+        "CourseTool"
+      ],
+      "keywords": "Python programming online courses discounted"
+    },
+    {
+      "id": "multi-099",
+      "request": "\"I want to learn about the latest advancements in technology and how it impacts the world. Could you recommend some courses or articles on this?\"",
+      "relevant": [
+        "NewsTool",
+        "CourseTool"
+      ],
+      "keywords": "courses articles technology advancements learning"
+    },
+    {
+      "id": "multi-100",
+      "request": "\"Can you recommend a hotel near the Eiffel Tower with good reviews? Also, how can I get there from the airport?\"",
+      "relevant": [
+        "TripAdviceTool",
+        "TripTool"
+      ],
+      "keywords": "hotel recommendations Eiffel Tower Paris"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "jev-tool-search",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Benchmark of tool search for LLM agents (BM25, embeddings, rerankers, Jev) and an experimental Jev search engine.",
+  "license": "MIT",
+  "author": "Ilko Kacharov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachar/jev-tool-search.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "bench": "tsx --env-file-if-exists=.env.local scripts/run-benchmark.ts",
+    "report": "tsx scripts/report.ts",
+    "report:mcp": "tsx scripts/report-mcp.ts",
+    "mcp": "tsx --env-file-if-exists=.env.local scripts/run-mcp.ts",
+    "agent": "tsx --env-file-if-exists=.env.local scripts/run-agent.ts",
+    "prepare:mcp": "tsx --env-file-if-exists=.env.local scripts/prepare-mcp.ts",
+    "prepare:metatool": "tsx --env-file-if-exists=.env.local scripts/prepare-metatool.ts",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@orama/orama": "3.1.18",
+    "ai": "7.0.114"
+  },
+  "devDependencies": {
+    "@types/node": "24.13.6",
+    "@vitest/coverage-v8": "5.0.2",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vitest": "5.0.2"
+  }
+}
